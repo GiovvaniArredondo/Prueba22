@@ -1,0 +1,92 @@
+﻿body {
+}
+
+.grid 
+		{
+			border-width:0px;
+			font-size:12px;
+		}
+
+        .grid caption 
+        {
+	        background:#f9f9f9 url(images/captionbckg.gif) repeat-x;
+	        color:#15428B;
+	        text-align:left;
+	        line-height:22px;
+	        font-size:11px;
+	        font-weight:bold;
+	        padding-top:2px;
+	        padding-left:2px;
+	        font-family:tahoma,arial,verdana,sans-serif;
+        }
+
+        .grid table 
+        {
+        	border:solid 1px #99BBE8;
+        	height:30px;
+	    }
+	        
+        .grid th
+        {
+	        background:transparent url(images/thbackground.gif) repeat;
+            height:19px;
+            border:solid 1px #99BBE8;
+            font-weight:normal;
+        }
+
+        .grid td
+        {
+	        border:1px solid #99BBE8;
+            color:Black;
+            height:25px;
+        }
+        
+        .pagerstyle 
+        {
+	        font-size:x-small;
+	        text-align:right;
+            background-position: bottom left;
+            background: #D0DEF0 url(images/toolbarbck.gif) repeat-x scroll left top;
+        }
+
+        .gopag 
+        {
+            font-size:x-small;
+            width:20px;
+        }
+
+        .pagprev
+        {
+            background:transparent url(images/previous.png) no-repeat scroll center;
+            height:1.3em;
+            width:16px;
+            cursor:pointer;
+            border:0px;
+        }
+        
+        .pagnext
+        {
+            background:transparent url(images/next.png) no-repeat scroll center;
+            height:1.3em;
+            width:16px;
+            cursor:pointer;
+            border:0px;
+        }
+
+        .pagfirst
+        {
+            background:transparent url(images/first.png) no-repeat scroll center;
+            height:1.3em;
+            width:16px;
+            cursor:pointer;
+            border:0px;
+        }
+        
+        .paglast
+        {
+            background:transparent url(images/last.png) no-repeat scroll center;
+            height:1.3em;
+            width:16px;
+            cursor:pointer;
+            border:0px;
+        }

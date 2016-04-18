@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Sistema Inform&aacute;tico para Microfinanzas (SIM)</title>
+<link href="css/fundamicro.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 10px;
+	font-weight: bold;
+}
+#form1 .contenido .cuerpo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #316AC5;
+	background-color: #62C5FF;
+	border: 0.5px solid #FFFFFF;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #CCCCCC;
+}
+-->
+</style>
+</head>
+
+<body onload="KW_doClock();KW_doCount()">
+<script language='JavaScript'>
+mark=new Date();d=document
+if (d.all || d.getElementById) {d.write('<span id="activeCount" style="width:60px;"></span>'); 
+} else if (d.layers) {d.write('<ilayer id="wrapCount"><layer width="60" id="activeCount"></layer></ilayer>'); }
+else {KW_doCount();}
+function KW_doCount() {
+	var newMark=new Date();
+	diff=newMark-mark
+	hrs=parseInt(diff/(1000*60*60))
+	hrs=(hrs<10)?"0"+hrs:hrs;
+	mins=parseInt((diff-hrs*1000*60*60)/(1000*60))
+	mins=(mins<10)?"0"+mins:mins;
+	secs=parseInt((diff-hrs*1000*60*60-mins*1000*60)/1000)
+	secs=(secs<10)?"0"+secs:secs;
+	dCount="<font face='Arial, Helvetica, sans-serif' color='#000000' size='10pt'>"+hrs+":"+mins+":"+secs+"</font>"
+	if (d.layers) {wc = document.wrapCount;lc = wc.document.activeCount;
+		lc.document.write(dCount);lc.document.close();
+	} else if (d.all) {	activeCount.innerHTML = dCount;
+	} else if (d.getElementById) {d.getElementById("activeCount").innerHTML = dCount;}
+	setTimeout("KW_doCount()",1000);	
+}
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td background="gif/fondo.jpg"><table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td colspan="2"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="749" height="140">
+            <param name="movie" value="flash/encabezado.swf" />
+            <param name="quality" value="high" />
+            <embed src="flash/encabezado.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="749" height="140"></embed>
+        </object></td>
+      </tr>
+      <tr>
+        <td colspan="2"><table width="750" border="0" cellspacing="1" cellpadding="0">
+            <tr>
+              <td width="187" valign="bottom" bgcolor="#0080CC"><div align="center" class="contenido">Contacto - Ayuda </div></td>
+              <td width="560" valign="baseline" bgcolor="#0066A6"><form id="form1" name="form1" method="post" action="">
+                  <table width="100%" border="0" cellspacing="2" cellpadding="1">
+                    <tr>
+                      <td width="106" class="contenido"><div align="right">Usuario</div></td>
+                      <td width="122" class="contenido"><input name="textfield" type="text" class="cuerpo" /></td>
+                      <td width="98" class="contenido">&nbsp;</td>
+                      <td width="216" class="contenido">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td class="contenido"><div align="right">Contrase&ntilde;a</div></td>
+                      <td class="contenido"><input name="textfield2" type="password" class="cuerpo" /></td>
+                      <td class="contenido"><label> </label>
+                          <div align="left">
+                            <input name="Submit" type="submit" class="cuerpo" value="Enviar" />
+                        </div></td>
+                      <td class="contenido">&nbsp;</td>
+                    </tr>
+                  </table>
+              </form></td>
+            </tr>
+            <tr>
+              <td valign="top" bgcolor="#0066A6"><table width="88%" border="0" align="center" cellpadding="2" cellspacing="2">
+                  <tr>
+                    <td><p class="contenido style1">Fundaci&oacute;n de Capacitaci&oacute;n<br />
+                      y Asesor&iacute;a en Microfinanzas</p>
+                        <p class="contenido">Edificio Century Plaza, <br />
+                          1er. Nivel, <br />
+                          Alameda Dr. Manuel Enrique Araujo,  Km.4 Carretera a Santa Tecla<br />
+                          San Salvador,  El Salvador, C.A.</p>
+                      <p class="contenido">Tel: (503) 2265-2177; Fax. (503) 2265-2173</p>
+                      <p class="contenido">Correo Electr&oacute;nico: fundamicro@fundamicro.com</p>
+                      <p class="contenido">P&aacute;gina Web: www.fundamicro.com</p></td>
+                  </tr>
+                </table>
+                  <p>&nbsp;</p></td>
+              <td valign="top" bgcolor="#EAF9FF"><table width="100%" border="0" cellspacing="5" cellpadding="5">
+                  <tr>
+                    <td><p class="cuerpo"><strong>FUNDAMICRO,</strong> ofrece a todas las Instituciones de apoyo financiero a la Micro y Peque&ntilde;a Empresa, el Sistema Inform&aacute;tico para Microfinanzas (SIM), este es un software especializado para la Gesti&oacute;n y Administraci&oacute;n de Carteras de Cr&eacute;dito. Est&aacute; integrado por los siguientes M&oacute;dulos:</p>
+                        <p class="cuerpo">1. M&oacute;dulo de Administraci&oacute;n<br />
+                          2. M&oacute;dulo de Cr&eacute;ditos<br />
+                          3. M&oacute;dulos de Contabilidad<br />
+                          4. M&oacute;dulos de Calificaci&oacute;n de Cartera<br />
+                          5. M&oacute;dulo de Ahorros <br />
+                          6. M&oacute;dulo de Clientes<br />
+                          7. M&oacute;dulos de Reportes.</p>
+                      <p><span class="cuerpo">Los ambientes de trabajo del SIM, han sido dise&ntilde;ados para operar en la plataforma Visual Fox Pro y Visual Basic .NET-SQL SERVER, dependiendo de las necesidades y presupuesto de las Instituciones. El SIM, es un Sistema de Informaci&oacute;n que responde a las necesidades de cualquier Instituci&oacute;n financiera.</span><br />
+                      </p></td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" bgcolor="#0080CC"><div align="center"><span class="contenido"> (c) Copyright 2006
+                <script language="JavaScript" type="text/javascript">
+var d=new Date();
+yr=d.getFullYear();
+if (yr!=2006)
+	    document.write("- "+yr);
+          </script>
+                , FUNDAMICRO, San Salvador</span></div></td>
+            </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td bgcolor="#CCCCCC">&nbsp;</td>
+  </tr>
+</table>
+<div align="center" class="cuerpo"></div>
+</body>
+</html>

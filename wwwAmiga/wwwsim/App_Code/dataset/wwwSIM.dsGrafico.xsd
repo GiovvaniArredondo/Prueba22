@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dsGrafico" targetNamespace="http://tempuri.org/dsGrafico.xsd" elementFormDefault="qualified"
+	attributeFormDefault="qualified" xmlns="http://tempuri.org/dsGrafico.xsd" xmlns:mstns="http://tempuri.org/dsGrafico.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dsGrafico" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="AntMora">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="cCatego" type="xs:string" minOccurs="0" />
+							<xs:element name="limite" type="xs:integer" minOccurs="0" />
+							<xs:element name="limite2" type="xs:integer" minOccurs="0" />
+							<xs:element name="nnumcre" type="xs:integer" minOccurs="0" />
+							<xs:element name="nSalCre" type="xs:double" minOccurs="0" />
+							<xs:element name="nCarAfe" type="xs:double" minOccurs="0" />
+							<xs:element name="nSalMora" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Genero">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Codigo" type="xs:string" minOccurs="0" />
+							<xs:element name="Descripcion" type="xs:string" minOccurs="0" />
+							<xs:element name="nNumCli" type="xs:integer" minOccurs="0" />
+							<xs:element name="nSalCre" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Oficina">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Region" type="xs:string" minOccurs="0" />
+							<xs:element name="Codigo" type="xs:string" minOccurs="0" />
+							<xs:element name="Oficina" type="xs:string" minOccurs="0" />
+							<xs:element name="nNumCli" type="xs:integer" minOccurs="0" />
+							<xs:element name="nSalCre" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Destino">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Codigo" type="xs:string" minOccurs="0" />
+							<xs:element name="Descripcion" type="xs:string" minOccurs="0" />
+							<xs:element name="nNumCli" type="xs:integer" minOccurs="0" />
+							<xs:element name="nSalCre" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,553 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2F8B87FA-02E8-489E-A543-F3D9010E2E72}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>SIM_EL</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>SIM.EL</RootNamespace>
+    <StartupObject>SIM.EL.%28Ninguno%29</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>SIM_EL.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>SIM_EL.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ApplicationBlocks.Data">
+      <Name>Microsoft.ApplicationBlocks.Data</Name>
+      <HintPath>..\Microsoft.ApplicationBlocks.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActivoF.vb" />
+    <Compile Include="ActivoIT.vb" />
+    <Compile Include="ActivoM.vb" />
+    <Compile Include="ahomaho.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AHOMBEN.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ahomcrt.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ahomcta.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ahomfir.vb" />
+    <Compile Include="ahomint.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ahomlib.vb" />
+    <Compile Include="ahommov.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ahompro.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ahompro2.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ahomtrs.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ahotlin.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="autopag.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BOLETAS.vb" />
+    <Compile Include="cancela.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Categoria.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="centros.vb" />
+    <Compile Include="CLIDAGRO.vb" />
+    <Compile Include="clidbad.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="clidbal.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CLIDFAMI.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="clidfin.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CLIDFLUJO.vb" />
+    <Compile Include="clidifa.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="clidpre.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="clidrie.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="climgar.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="climide.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="clipcta.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cntabal.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cntaemp.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cntamov.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cntaprm.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cntaprmAct.vb" />
+    <Compile Include="cnumes.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ComCtb.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="configuracion.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="correla.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="credchq.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="credgas.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="creditos.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="credkar.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="credppg.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="credpro.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="credtpl.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cremcre.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CremRef.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cremsol.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="crepgar.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cretgas.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="cretlin.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ctbdchq.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ctbmcta.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DEPMBEN.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="diario.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="empleados.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Encuestas.vb" />
+    <Compile Include="entidadBase.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="gestion.vb" />
+    <Compile Include="grupos.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="kardex.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListaActivoF.vb" />
+    <Compile Include="Listaahomaho.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListaAHOMBEN.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaahomcrt.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaahomcta.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListaAhomfir.vb" />
+    <Compile Include="Listaahomint.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaahomlib.vb" />
+    <Compile Include="Listaahommov.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaahompro2.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaahomtrs.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaahotlin.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaautopag.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="listaBase.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListaBOLETAS.vb" />
+    <Compile Include="Listacancela.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListaCategoria.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacentros.vb" />
+    <Compile Include="ListaCLIDAGRO.vb" />
+    <Compile Include="Listaclidbad.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaclidbal.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListaCLIDFAMI.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaclidfin.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListaCLIDFLUJO.vb" />
+    <Compile Include="Listaclidifa.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaclidpre.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaclidrie.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaclimgar.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaclimide.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaclipcta.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacntabal.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacntaemp.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacntamov.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacntaprm.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListacntaprmAct.vb" />
+    <Compile Include="Listacnumes.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacredchq.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacredgas.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="listacreditos.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacredkar.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacredppg.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacredpro.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacredtpl.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacremcre.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListaCremRef.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacremsol.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacrepgar.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacretgas.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listacretlin.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listactbdchq.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listactbmcta.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListaDEPMBEN.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listadiario.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listaempleados.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListaEncuestas.vb" />
+    <Compile Include="Listagestion.vb" />
+    <Compile Include="Listagrupos.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="listakardex.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="listakardexporcuenta.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listanotas.vb" />
+    <Compile Include="Listaopciones.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListaopcionesGrupo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListaopcionesUsuario.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listapagadurias.vb" />
+    <Compile Include="Listaparent.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listapromociones.vb" />
+    <Compile Include="ListaPROPUESTA.vb" />
+    <Compile Include="Listatabtbco.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listatabtciu.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listatabtfer.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listatabtmak.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listatabtofi.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listatabtprf.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listatabttab.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listatabtusu.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listatabtvar.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listatabtzon.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListaTABULAR.vb" />
+    <Compile Include="ListausuarioGrupo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listausuarios.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="notas.vb" />
+    <Compile Include="opciones.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="opcionesGrupo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="opcionesUsuario.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="pagadurias.vb" />
+    <Compile Include="parent.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="personal.vb" />
+    <Compile Include="promociones.vb" />
+    <Compile Include="PROPUESTA.vb" />
+    <Compile Include="RepGraf.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tabtbco.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tabtciu.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tabtfer.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tabtmak.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tabtofi.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tabtprf.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tabttab.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tabtusu.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tabtvar.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tabtzon.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TABULAR.vb" />
+    <Compile Include="usuarioGrupo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="usuarios.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="utilNumeros.vb">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

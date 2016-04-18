@@ -1,0 +1,75 @@
+<%@ Control CodeBehind="Header.ascx.vb" Language="vb" AutoEventWireup="false" Inherits ucWBaseHeader" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Sistema Informático para Microfinanzas (SIM)</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<link href="css/fundamicro.css" rel="stylesheet" type="text/css">
+			<style type="text/css"> <!-- .style1 { font-size: 10px; font-weight: bold; }
+	#form1 .contenido .cuerpo { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #316AC5; background-color: #62C5FF; border: 0.5px solid #FFFFFF; }
+	body { margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; background-color: #CCCCCC; }
+	--></style>
+	</head>
+	<body onload="KW_doClock();KW_doCount()">
+		<script language='JavaScript'>
+mark=new Date();d=document
+if (d.all || d.getElementById) {d.write('<span id="activeCount" style="width:60px;"></span>'); 
+} else if (d.layers) {d.write('<ilayer id="wrapCount"><layer width="60" id="activeCount"></layer></ilayer>'); }
+else {KW_doCount();}
+function KW_doCount() {
+	var newMark=new Date();
+	diff=newMark-mark
+	hrs=parseInt(diff/(1000*60*60))
+	hrs=(hrs<10)?"0"+hrs:hrs;
+	mins=parseInt((diff-hrs*1000*60*60)/(1000*60))
+	mins=(mins<10)?"0"+mins:mins;
+	secs=parseInt((diff-hrs*1000*60*60-mins*1000*60)/1000)
+	secs=(secs<10)?"0"+secs:secs;
+	dCount="<font face='Arial, Helvetica, sans-serif' color='#000000' size='10pt'>"+hrs+":"+mins+":"+secs+"</font>"
+	if (d.layers) {wc = document.wrapCount;lc = wc.document.activeCount;
+		lc.document.write(dCount);lc.document.close();
+	} else if (d.all) {	activeCount.innerHTML = dCount;
+	} else if (d.getElementById) {d.getElementById("activeCount").innerHTML = dCount;}
+	setTimeout("KW_doCount()",1000);	
+}
+		</script>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td background="gif/fondo.jpg" width="894">
+					<OBJECT id="Shockwaveflash1" codeBase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0"
+						height="140" width="749" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+						<PARAM NAME="_cx" VALUE="19817">
+						<PARAM NAME="_cy" VALUE="3704">
+						<PARAM NAME="FlashVars" VALUE="">
+						<PARAM NAME="Movie" VALUE="flash/encabezado.swf">
+						<PARAM NAME="Src" VALUE="flash/encabezado.swf">
+						<PARAM NAME="WMode" VALUE="Window">
+						<PARAM NAME="Play" VALUE="-1">
+						<PARAM NAME="Loop" VALUE="-1">
+						<PARAM NAME="Quality" VALUE="High">
+						<PARAM NAME="SAlign" VALUE="">
+						<PARAM NAME="Menu" VALUE="-1">
+						<PARAM NAME="Base" VALUE="">
+						<PARAM NAME="AllowScriptAccess" VALUE="">
+						<PARAM NAME="Scale" VALUE="ShowAll">
+						<PARAM NAME="DeviceFont" VALUE="0">
+						<PARAM NAME="EmbedMovie" VALUE="0">
+						<PARAM NAME="BGColor" VALUE="">
+						<PARAM NAME="SWRemote" VALUE="">
+						<PARAM NAME="MovieData" VALUE="">
+						<PARAM NAME="SeamlessTabbing" VALUE="1">
+						<PARAM NAME="Profile" VALUE="0">
+						<PARAM NAME="ProfileAddress" VALUE="">
+						<PARAM NAME="ProfilePort" VALUE="0">
+						<embed src="flash/encabezado.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer"
+							type="application/x-shockwave-flash" width="749" height="140"> </embed>
+					</OBJECT>
+				</td>
+			</tr>
+			<tr>
+				<td bgcolor="#cccccc" width="894">&nbsp;</td>
+			</tr>
+		</table>
+		<div align="center" class="cuerpo"></div>
+	</body>
+</html>

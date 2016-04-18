@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SIM_DL
+</name>
+</assembly>
+<members>
+<member name="M:SIM.DL.dbAhomcta.ObtieneCuentasxCliente(System.String)">
+	<summary>
+ Obtiene Cuentas de Ahorro por cliente
+ </summary>
+	<param name="ccodcli"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

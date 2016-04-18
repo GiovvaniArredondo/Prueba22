@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dsnopagos" targetNamespace="http://tempuri.org/dsnopagos.xsd" elementFormDefault="qualified"
+	attributeFormDefault="qualified" xmlns="http://tempuri.org/dsnopagos.xsd" xmlns:mstns="http://tempuri.org/dsnopagos.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dsnopagos" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="Nopago">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ccodcta" type="xs:string" minOccurs="0" />
+							<xs:element name="ccodcli" type="xs:string" minOccurs="0" />
+							<xs:element name="cnomcli" type="xs:string" minOccurs="0" />
+							<xs:element name="nmonto" type="xs:decimal" minOccurs="0" />
+							<xs:element name="ccodofi" type="xs:string" minOccurs="0" />
+							<xs:element name="cflag" type="xs:string" minOccurs="0" />
+							<xs:element name="cmotivo" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

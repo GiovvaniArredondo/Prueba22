@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "wwwsim", "wwwsim\", "{92C0E3F5-0824-4FA4-9E9A-3FAD9C08B5A8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/wwwsim"
+		Debug.AspNetCompiler.PhysicalPath = "wwwsim\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\wwwsim\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/wwwsim"
+		Release.AspNetCompiler.PhysicalPath = "wwwsim\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\wwwsim\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50962"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SIM_BL", "..\..\..\Desktop\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\SIM_BL.vbproj", "{152FD0C5-DA57-4F2A-B72A-42F6457FD0C4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SIM_DL", "..\..\..\Desktop\Desarrollo MFAMIGA\wwwAmiga\SIM_DL\SIM_DL.vbproj", "{2DE55728-B767-4F5D-94D0-9FFA325DBDE8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SIM_EL", "..\..\..\Desktop\Desarrollo MFAMIGA\wwwAmiga\SIM_EL\SIM_EL.vbproj", "{2F8B87FA-02E8-489E-A543-F3D9010E2E72}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SIM_WINUC", "..\..\..\Desktop\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\SIM_WINUC.vbproj", "{DAD2060D-B62E-407C-8615-05787DB26083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C0E3F5-0824-4FA4-9E9A-3FAD9C08B5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C0E3F5-0824-4FA4-9E9A-3FAD9C08B5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C0E3F5-0824-4FA4-9E9A-3FAD9C08B5A8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C0E3F5-0824-4FA4-9E9A-3FAD9C08B5A8}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{152FD0C5-DA57-4F2A-B72A-42F6457FD0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152FD0C5-DA57-4F2A-B72A-42F6457FD0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152FD0C5-DA57-4F2A-B72A-42F6457FD0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152FD0C5-DA57-4F2A-B72A-42F6457FD0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE55728-B767-4F5D-94D0-9FFA325DBDE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE55728-B767-4F5D-94D0-9FFA325DBDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE55728-B767-4F5D-94D0-9FFA325DBDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE55728-B767-4F5D-94D0-9FFA325DBDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8B87FA-02E8-489E-A543-F3D9010E2E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8B87FA-02E8-489E-A543-F3D9010E2E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8B87FA-02E8-489E-A543-F3D9010E2E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8B87FA-02E8-489E-A543-F3D9010E2E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD2060D-B62E-407C-8615-05787DB26083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD2060D-B62E-407C-8615-05787DB26083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD2060D-B62E-407C-8615-05787DB26083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD2060D-B62E-407C-8615-05787DB26083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

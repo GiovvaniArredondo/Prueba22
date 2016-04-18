@@ -1,0 +1,714 @@
+C:\wwwAsaV8\SIM_BL\bin\SIM_BL.dll
+C:\wwwAsaV8\SIM_BL\bin\SIM_BL.pdb
+C:\wwwAsaV8\SIM_BL\bin\SIM_BL.xml
+C:\wwwAsaV8\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\wwwAsaV8\SIM_BL\bin\SIM_DL.dll
+C:\wwwAsaV8\SIM_BL\bin\SIM_EL.dll
+C:\wwwAsaV8\SIM_BL\bin\SIM_EL.pdb
+C:\wwwAsaV8\SIM_BL\bin\SIM_EL.xml
+C:\wwwAsaV8\SIM_BL\bin\SIM_DL.pdb
+C:\wwwAsaV8\SIM_BL\bin\SIM_DL.xml
+C:\wwwAsaV8\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\wwwAsaV8\SIM_BL\obj\Debug\SIM_BL.dll
+C:\wwwAsaV8\SIM_BL\obj\Debug\SIM_BL.xml
+C:\wwwAsaV8\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\wwwFSOL\SIM_BL\bin\SIM_BL.dll
+C:\wwwFSOL\SIM_BL\bin\SIM_BL.pdb
+C:\wwwFSOL\SIM_BL\bin\SIM_BL.xml
+C:\wwwFSOL\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\wwwFSOL\SIM_BL\bin\SIM_DL.dll
+C:\wwwFSOL\SIM_BL\bin\SIM_EL.dll
+C:\wwwFSOL\SIM_BL\bin\SIM_EL.pdb
+C:\wwwFSOL\SIM_BL\bin\SIM_EL.xml
+C:\wwwFSOL\SIM_BL\bin\SIM_DL.pdb
+C:\wwwFSOL\SIM_BL\bin\SIM_DL.xml
+C:\wwwFSOL\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\wwwFSOL\SIM_BL\obj\Debug\SIM_BL.dll
+C:\wwwFSOL\SIM_BL\obj\Debug\SIM_BL.xml
+C:\wwwFSOL\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\wwwIntegral\SIM_BL\bin\SIM_BL.dll
+C:\wwwIntegral\SIM_BL\bin\SIM_BL.pdb
+C:\wwwIntegral\SIM_BL\bin\SIM_BL.xml
+C:\wwwIntegral\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\wwwIntegral\SIM_BL\bin\SIM_DL.dll
+C:\wwwIntegral\SIM_BL\bin\SIM_EL.dll
+C:\wwwIntegral\SIM_BL\bin\SIM_EL.pdb
+C:\wwwIntegral\SIM_BL\bin\SIM_EL.xml
+C:\wwwIntegral\SIM_BL\bin\SIM_DL.pdb
+C:\wwwIntegral\SIM_BL\bin\SIM_DL.xml
+C:\wwwIntegral\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\wwwIntegral\SIM_BL\obj\Debug\SIM_BL.dll
+C:\wwwIntegral\SIM_BL\obj\Debug\SIM_BL.xml
+C:\wwwIntegral\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\wwwCDRO\SIM_BL\bin\SIM_BL.dll
+C:\wwwCDRO\SIM_BL\bin\SIM_BL.pdb
+C:\wwwCDRO\SIM_BL\bin\SIM_BL.xml
+C:\wwwCDRO\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\wwwCDRO\SIM_BL\bin\SIM_DL.dll
+C:\wwwCDRO\SIM_BL\bin\SIM_EL.dll
+C:\wwwCDRO\SIM_BL\bin\SIM_EL.pdb
+C:\wwwCDRO\SIM_BL\bin\SIM_EL.xml
+C:\wwwCDRO\SIM_BL\bin\SIM_DL.pdb
+C:\wwwCDRO\SIM_BL\bin\SIM_DL.xml
+C:\wwwCDRO\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\wwwCDRO\SIM_BL\obj\Debug\SIM_BL.dll
+C:\wwwCDRO\SIM_BL\obj\Debug\SIM_BL.xml
+C:\wwwCDRO\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\wwwFUNDEA\SIM_BL\bin\SIM_BL.dll
+C:\wwwFUNDEA\SIM_BL\bin\SIM_BL.pdb
+C:\wwwFUNDEA\SIM_BL\bin\SIM_BL.xml
+C:\wwwFUNDEA\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\wwwFUNDEA\SIM_BL\bin\SIM_DL.dll
+C:\wwwFUNDEA\SIM_BL\bin\SIM_EL.dll
+C:\wwwFUNDEA\SIM_BL\bin\SIM_EL.pdb
+C:\wwwFUNDEA\SIM_BL\bin\SIM_EL.xml
+C:\wwwFUNDEA\SIM_BL\bin\SIM_DL.pdb
+C:\wwwFUNDEA\SIM_BL\bin\SIM_DL.xml
+C:\wwwFUNDEA\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\wwwFUNDEA\SIM_BL\obj\Debug\SIM_BL.dll
+C:\wwwFUNDEA\SIM_BL\obj\Debug\SIM_BL.xml
+C:\wwwFUNDEA\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Proyectos\wwwFUNDEA\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\wwwFUNDEA\SIM_BL\bin\SIM_BL.dll
+C:\Proyectos\wwwFUNDEA\SIM_BL\bin\SIM_BL.pdb
+C:\Proyectos\wwwFUNDEA\SIM_BL\bin\SIM_BL.xml
+C:\Proyectos\wwwFUNDEA\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Proyectos\wwwFUNDEA\SIM_BL\bin\SIM_DL.dll
+C:\Proyectos\wwwFUNDEA\SIM_BL\bin\SIM_EL.dll
+C:\Proyectos\wwwFUNDEA\SIM_BL\bin\SIM_DL.pdb
+C:\Proyectos\wwwFUNDEA\SIM_BL\bin\SIM_DL.xml
+C:\Proyectos\wwwFUNDEA\SIM_BL\bin\SIM_EL.pdb
+C:\Proyectos\wwwFUNDEA\SIM_BL\bin\SIM_EL.xml
+C:\Proyectos\wwwFUNDEA\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Proyectos\wwwFUNDEA\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Proyectos\wwwFUNDEA\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Proyectos\wwwFUNDEA\SIM_BL\bin\SIM_BL.dll.config
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\bin\SIM_BL.dll.config
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\bin\SIM_BL.dll
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\bin\SIM_BL.pdb
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\bin\SIM_BL.xml
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\bin\SIM_DL.dll
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\bin\SIM_EL.dll
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\bin\SIM_DL.pdb
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\bin\SIM_DL.xml
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\bin\SIM_EL.pdb
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\bin\SIM_EL.xml
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\obj\Debug\SIM_BL.dll
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\obj\Debug\SIM_BL.xml
+D:\Temp\Fuentes\wwwFUNDEA\SIM_BL\obj\Debug\SIM_BL.pdb
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+D:\Temp\Fuentes\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Fuentes\wwwAMIGA_\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\wwwAMIGA_\SIM_BL\bin\SIM_BL.dll
+C:\Fuentes\wwwAMIGA_\SIM_BL\bin\SIM_BL.pdb
+C:\Fuentes\wwwAMIGA_\SIM_BL\bin\SIM_BL.xml
+C:\Fuentes\wwwAMIGA_\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Fuentes\wwwAMIGA_\SIM_BL\bin\SIM_DL.dll
+C:\Fuentes\wwwAMIGA_\SIM_BL\bin\SIM_EL.dll
+C:\Fuentes\wwwAMIGA_\SIM_BL\bin\SIM_EL.pdb
+C:\Fuentes\wwwAMIGA_\SIM_BL\bin\SIM_EL.xml
+C:\Fuentes\wwwAMIGA_\SIM_BL\bin\SIM_DL.pdb
+C:\Fuentes\wwwAMIGA_\SIM_BL\bin\SIM_DL.xml
+C:\Fuentes\wwwAMIGA_\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Fuentes\wwwAMIGA_\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Fuentes\wwwAMIGA_\SIM_BL\obj\Debug\SIM_BL.pdb
+D:\Temp\GPS\wwwAMIGA\SIM_BL\bin\SIM_BL.dll
+D:\Temp\GPS\wwwAMIGA\SIM_BL\bin\SIM_BL.pdb
+D:\Temp\GPS\wwwAMIGA\SIM_BL\bin\SIM_BL.xml
+D:\Temp\GPS\wwwAMIGA\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\Temp\GPS\wwwAMIGA\SIM_BL\bin\SIM_DL.dll
+D:\Temp\GPS\wwwAMIGA\SIM_BL\bin\SIM_EL.dll
+D:\Temp\GPS\wwwAMIGA\SIM_BL\bin\SIM_EL.pdb
+D:\Temp\GPS\wwwAMIGA\SIM_BL\bin\SIM_EL.xml
+D:\Temp\GPS\wwwAMIGA\SIM_BL\bin\SIM_DL.pdb
+D:\Temp\GPS\wwwAMIGA\SIM_BL\bin\SIM_DL.xml
+D:\Temp\GPS\wwwAMIGA\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\GPS\wwwAMIGA\SIM_BL\obj\Debug\SIM_BL.dll
+D:\Temp\GPS\wwwAMIGA\SIM_BL\obj\Debug\SIM_BL.xml
+D:\Temp\GPS\wwwAMIGA\SIM_BL\obj\Debug\SIM_BL.pdb
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\bin\SIM_BL.dll
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\bin\SIM_BL.pdb
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\bin\SIM_BL.xml
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\bin\SIM_DL.dll
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\bin\SIM_EL.dll
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\bin\SIM_DL.pdb
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\bin\SIM_DL.xml
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\bin\SIM_EL.pdb
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\bin\SIM_EL.xml
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\obj\Debug\SIM_BL.dll
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\obj\Debug\SIM_BL.xml
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\bin\office.dll
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\fuentes\version desarrollo\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\office.dll
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\RESPALDO_FESTORE\fuentes\version desarrollo\TRABAJANDO\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\CARPETA DE TAREAS_REALIZADAS\Version_Nueva\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\office.dll
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+G:\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VERSIONES_NUEVAS\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\solucion_nueva_amiga\wwwamiga\SIM_BL\obj\Debug\SIM_BL.pdb
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\bin\SIM_BL.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\bin\SIM_BL.pdb
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\bin\SIM_BL.xml
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\bin\SIM_DL.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\bin\SIM_EL.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\bin\office.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\bin\SIM_EL.pdb
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\bin\SIM_EL.xml
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\bin\SIM_DL.pdb
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\bin\SIM_DL.xml
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.xml
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\bin\SIM_BL.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\bin\SIM_BL.pdb
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\bin\SIM_BL.xml
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\bin\SIM_DL.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\bin\SIM_EL.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\bin\office.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\bin\SIM_EL.pdb
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\bin\SIM_EL.xml
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\bin\SIM_DL.pdb
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\bin\SIM_DL.xml
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual10062015\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\bin\office.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\Version_Garantia\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ctorres\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\bin\office.dll
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Temp\AMIGA\Fuentes\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\bin\SIM_BL.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\bin\SIM_BL.pdb
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\bin\SIM_BL.xml
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\bin\SIM_DL.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\bin\SIM_EL.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\bin\office.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\bin\Microsoft.Vbe.Interop.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\bin\SIM_EL.pdb
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\bin\SIM_EL.xml
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\bin\SIM_DL.pdb
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\bin\SIM_DL.xml
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.xml
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_BL\obj\Debug\SIM_BL.pdb

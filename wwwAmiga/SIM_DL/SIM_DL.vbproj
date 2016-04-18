@@ -1,0 +1,312 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2DE55728-B767-4F5D-94D0-9FFA325DBDE8}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>SIM_DL</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>SIM.DL</RootNamespace>
+    <StartupObject>SIM.DL.%28Ninguno%29</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>SIM_DL.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>SIM_DL.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ApplicationBlocks.Data">
+      <Name>Microsoft.ApplicationBlocks.Data</Name>
+      <HintPath>..\Microsoft.ApplicationBlocks.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <ProjectReference Include="..\SIM_EL\SIM_EL.vbproj">
+      <Name>SIM_EL</Name>
+      <Project>{2F8B87FA-02E8-489E-A543-F3D9010E2E72}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.ApplicationBlocks.Data" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="SIM.EL" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.SqlClient" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbActivoF.vb" />
+    <Compile Include="dbActivoIT.vb" />
+    <Compile Include="dbActivoM.vb" />
+    <Compile Include="dbAhomaho.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbAHOMBEN.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbAhomcrt.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbAhomcta.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbAhomfir.vb" />
+    <Compile Include="dbAhomint.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbAhomlib.vb" />
+    <Compile Include="dbAhommov.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbAhompro2.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbAhomtrs.vb" />
+    <Compile Include="dbAhotlin.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbAutopag.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbBase.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbBOLETAS.vb" />
+    <Compile Include="dbCancela.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCategoria.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCentros.vb" />
+    <Compile Include="dbCLIDAGRO.vb" />
+    <Compile Include="dbClidbal.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCLIDFAMI.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbClidfin.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCLIDFLUJO.vb" />
+    <Compile Include="dbClimgar.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbClimide.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCntabal.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCntaemp.vb" />
+    <Compile Include="dbCntamov.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCntaprm.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCntaprmAct.vb" />
+    <Compile Include="dbCnumes.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbConCtb.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCredchq.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCredgas.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbcreditos.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCredkar.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCredppg.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCredtpl.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCremcre.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCremRef.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCremsol.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCrepgar.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCretgas.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCretlin.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCtbdchq.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbCtbmcta.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbDEPMBEN.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbDiario.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbEmpleados.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbEncuestas.vb" />
+    <Compile Include="dbGestion.vb" />
+    <Compile Include="dbGrupos.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbkardex.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbNotas.vb" />
+    <Compile Include="dbOpciones.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbOpcionesGrupo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbOpcionesUsuario.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbPagadurias.vb" />
+    <Compile Include="dbParent.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbPersonal.vb" />
+    <Compile Include="dbPromociones.vb" />
+    <Compile Include="dbPROPUESTA.vb" />
+    <Compile Include="dbRepGraf.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbTabtbco.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbTabtciu.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbTabtfer.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbTabtmak.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbTabtofi.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbTabtprf.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbTabttab.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbTabtusu.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbTabtvar.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbTabtzon.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbTABULAR.vb" />
+    <Compile Include="dbUsuarioGrupo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="dbUsuarios.vb">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

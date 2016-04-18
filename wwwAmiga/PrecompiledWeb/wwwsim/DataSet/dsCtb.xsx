@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este archivo lo genera de forma automática el diseñador de esquemas XML. Contiene información de diseño para componentes de la superficie de diseño.-->
+<XSDDesignerLayout layoutVersion="2" viewPortLeft="0" viewPortTop="2908" zoom="100">
+    <ConsCtas_XmlElement left="1111" top="3757" width="4763" height="3810" selected="0" zOrder="1" index="0" expanded="1" />
+    <Libro1_XmlElement left="11112" top="5821" width="6086" height="5503" selected="0" zOrder="2" index="1" expanded="1" />
+</XSDDesignerLayout>

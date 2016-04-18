@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="ResMimeType">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="Version">
+		<value>1.0.0.0</value>
+	</resheader>
+	<resheader name="Reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="Writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=1.0.5000.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="lblClave">
+		<value>Wellcome</value>
+	</data>
+	<data name="lblUsuario">
+		<value>User</value>
+	</data>
+	<data name="btnIn">
+		<value>To enter</value>
+	</data>
+	<data name="btnCambiar">
+		<value>Change</value>
+	</data>
+	<data name="lblIntro1">
+		<value>FUNDAMICRO, offers to all the Institutions of financial support to the Micro and Small enterprise, the Computer System for Microfinance (SIM), this one is a software specialized for the Management and Administration of Credit portfolios. It is integrated by the following Modules:</value>
+	</data>
+	<data name="lblIntro2">
+		<value>1. Module of Administration</value>
+	</data>
+	<data name="lblIntro3">
+		<value>2. Credit module</value>
+	</data>
+	<data name="lblIntro4">
+		<value>3. Module of Accounting</value>
+	</data>
+	<data name="lblIntro5">
+		<value>4. Module of Qualification of Portfolio</value>
+	</data>
+	<data name="lblIntro6">
+		<value>5. Module of Savings</value>
+	</data>
+	<data name="lblIntro7">
+		<value>6. Clients' module</value>
+	</data>
+	<data name="lblIntro8">
+		<value>7. Module of Reports.</value>
+	</data>
+	<data name="lblIntro9">
+		<value>The environments of work of the SIM, they have been designed to produce in the Visual platform Basic .NET-SQL SERVER, depending on the needs and budget of the Institutions. The SIM, is a System of Information that answers to the needs of any financial Institution.</value>
+	</data>
+</root>

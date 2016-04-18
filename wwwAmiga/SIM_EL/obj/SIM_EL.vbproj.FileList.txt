@@ -1,0 +1,8 @@
+bin\SIM_EL.dll
+bin\SIM_EL.pdb
+bin\SIM_EL.xml
+bin\Microsoft.ApplicationBlocks.Data.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SIM_EL.dll
+obj\Debug\SIM_EL.xml
+obj\Debug\SIM_EL.pdb

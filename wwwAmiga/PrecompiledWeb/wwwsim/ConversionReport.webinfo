@@ -1,0 +1,823 @@
+﻿Este informe muestra los pasos llevados a cabo para convertir la aplicación Web de ASP.NET 1.1 en ASP.NET 2.0. 
+Puede haber algunos problemas de conversión sin resolver que necesita solucionar manualmente. 
+Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkId=46995 o busque el tema de la Ayuda "Convertir desde Visual Studio .NET 2002 o 2003".
+Se ha iniciado la conversión en el archivo de proyecto wwwSIM.vbproj en November 29 2008, 09:15:37.
+
+=========================ERRORES===================
+
+=========================ADVERTENCIAS=================
+Advertencia: no se puede analizar el archivo WFSugInd.aspx porque no se ha encontrado ningún atributo de código subyacente ni ninguna directiva de página o control.    WFSugInd.aspx
+Advertencia: se movieron los archivos de recursos a la carpeta 'App_GlobalResources'. Puede que tenga que corregir manualmente el código que utiliza recursos.
+Advertencia: este proyecto Web se convirtió en una aplicación Web basada en archivos. Si el sitio contenía metainformación de IIS, como subcarpetas marcadas como directorios virtuales, se recomienda que cierre este sitio Web y vuelva a abrirlo con el comando Abrir sitio Web y seleccionando la ficha IIS local.
+Las líneas siguientes se han excluido del sitio web porque no se encontraron en el archivo de proyecto o porque el valor de la configuración 'BuildAction' asociada está establecido en 'None'.
+Lista de archivos == controles\logincopy.ascx,treeview.aspx,wfcausas.aspx,tabstrip.aspx,controles\cuwplanchange.ascx,temporal.aspx,
+controles\entrada1a.aspx,wfgarantias.aspx,reportes\crplanservice.asmx,prueba.aspx,cwrecsol.ascx,treeview_bound.aspx,controles\mensaje.ascx,
+controles\wbaprind.aspx,wfplan.aspx,websugind.aspx,multipage.aspx,wbanulapagos.ascx,toolbar.aspx,controles\js1.ascx.
+
+=========================COMENTARIOS=================
+Web.Config: atributo 'xhtmlConformance' agregado.
+Web.Config: se ha agregado una referencia para el ensamblado System.Design.
+Web.Config: se ha agregado una referencia para el ensamblado System.Windows.Forms.
+Web.Config: se ha agregado una referencia para el ensamblado CrystalDecisions.Shared.
+Web.Config: se ha agregado una referencia para el ensamblado CrystalDecisions.ReportSource.
+Web.Config: se ha agregado una referencia para el ensamblado CrystalDecisions.Web.
+Web.Config: se ha agregado una referencia para el ensamblado CrystalDecisions.CrystalReports.Engine.
+Se ha quitado el atributo Codebehind del archivo CrearEncriptado.aspx.
+El nivel de acceso de 'wwwSIM.CrearEncriptado' cambió a 'Partial' en el archivo CrearEncriptado.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo default.aspx.
+El nivel de acceso de 'wwwSIM._default' cambió a 'Partial' en el archivo default.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/Cuwflash1.ascx' se agregó al archivo default.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/cuwclientes.ascx' se agregó al archivo default.aspx.
+Se ha quitado el atributo Codebehind del archivo DetaMantCremcre.aspx.
+El nivel de acceso de 'wwwSIM.DetaMantCremcre' cambió a 'Partial' en el archivo DetaMantCremcre.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/barraNavegacion.ascx' se agregó al archivo DetaMantCremcre.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/VistaDetalleCremcre.ascx' se agregó al archivo DetaMantCremcre.aspx.
+Se ha quitado el atributo Codebehind del archivo Global.asax.
+Se ha quitado el atributo Codebehind del archivo MantCremcre.aspx.
+El nivel de acceso de 'wwwSIM.MantCremcre' cambió a 'Partial' en el archivo MantCremcre.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/barraNavegacion.ascx' se agregó al archivo MantCremcre.aspx.
+Se ha quitado el atributo Codebehind del archivo mensajesPrueba.aspx.
+El nivel de acceso de 'wwwSIM.mensajesPrueba' cambió a 'Partial' en el archivo mensajesPrueba.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo pcambio.aspx.
+El nivel de acceso de 'wwwSIM.pcambio' cambió a 'Partial' en el archivo pcambio.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo pcambio.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/wucChangePlan.ascx' se agregó al archivo pcambio.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/CuwPlan.ascx' se agregó al archivo pcambio.aspx.
+Se ha quitado el atributo Codebehind del archivo plantillamenuizq.aspx.
+El nivel de acceso de 'wwwSIM.plantillamenuizq' cambió a 'Partial' en el archivo plantillamenuizq.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo prueba2.aspx.
+El nivel de acceso de 'wwwSIM.prueba2' cambió a 'Partial' en el archivo prueba2.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo WbAdchqs.aspx.
+El nivel de acceso de 'wwwSIM.WbAdchqs' cambió a 'Partial' en el archivo WbAdchqs.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WbUsCAdChq.ascx' se agregó al archivo WbAdchqs.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WbUsCatal.ascx' se agregó al archivo WbAdchqs.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WbUsFindPart.ascx' se agregó al archivo WbAdchqs.aspx.
+Se ha quitado el atributo Codebehind del archivo WbAdmRpt.aspx.
+El nivel de acceso de 'wwwSIM.WbAdmRpt' cambió a 'Partial' en el archivo WbAdmRpt.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo WbAdParti.aspx.
+El nivel de acceso de 'wwwSIM.WbAdParti' cambió a 'Partial' en el archivo WbAdParti.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WbUsCAdPartida.ascx' se agregó al archivo WbAdParti.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WbUsCatal.ascx' se agregó al archivo WbAdParti.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WbUsFindPart.ascx' se agregó al archivo WbAdParti.aspx.
+Se ha quitado el atributo Codebehind del archivo wbamortiza2.aspx.
+El nivel de acceso de 'wwwSIM.wbamortiza2' cambió a 'Partial' en el archivo wbamortiza2.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/wbpagos.ascx' se agregó al archivo wbamortiza2.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo wbamortiza2.aspx.
+Se ha quitado el atributo Codebehind del archivo wbanula.aspx.
+El nivel de acceso de 'wwwSIM.wbanula' cambió a 'Partial' en el archivo wbanula.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo wbanula.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/wbanulapagos.ascx' se agregó al archivo wbanula.aspx.
+Se ha quitado el atributo Codebehind del archivo WbAprInd.aspx.
+El nivel de acceso de 'wwwSIM.WbAprInd' cambió a 'Partial' en el archivo WbAprInd.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo WbAprInd.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/CUWAprInd.ascx' se agregó al archivo WbAprInd.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/CuwPlan.ascx' se agregó al archivo WbAprInd.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUCGarantias.ascx' se agregó al archivo WbAprInd.aspx.
+Se ha quitado el atributo Codebehind del archivo wbbalance.aspx.
+El nivel de acceso de 'wwwSIM.wbbalance' cambió a 'Partial' en el archivo wbbalance.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo WbBancos.aspx.
+El nivel de acceso de 'wwwSIM.WbBancos' cambió a 'Partial' en el archivo WbBancos.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/CUWBancos.ascx' se agregó al archivo WbBancos.aspx.
+Se ha quitado el atributo Codebehind del archivo wbbusquedas.aspx.
+El nivel de acceso de 'wwwSIM.wbbusquedas' cambió a 'Partial' en el archivo wbbusquedas.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wbcaja.aspx.
+El nivel de acceso de 'wwwSIM.wbcaja1' cambió a 'Partial' en el archivo wbcaja.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/wbsaldo.ascx' se agregó al archivo wbcaja.aspx.
+Se ha quitado el atributo Codebehind del archivo wbcalcmora.aspx.
+El nivel de acceso de 'wwwSIM.wbcalcmora' cambió a 'Partial' en el archivo wbcalcmora.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo wbcalcmora.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/uccalmora.ascx' se agregó al archivo wbcalcmora.aspx.
+Se ha quitado el atributo Codebehind del archivo wbCamAna.aspx.
+El nivel de acceso de 'wwwSIM.Wbcamana' cambió a 'Partial' en el archivo wbCamAna.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo wbCamAna.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/cuwCamAna.ascx' se agregó al archivo wbCamAna.aspx.
+Se ha quitado el atributo Codebehind del archivo WbCAmfec.aspx.
+El nivel de acceso de 'wwwSIM.WbCAmfec' cambió a 'Partial' en el archivo WbCAmfec.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo WbCamPlan.aspx.
+El nivel de acceso de 'wwwSIM.WbCamPlan' cambió a 'Partial' en el archivo WbCamPlan.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo WbCamPlan.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/wucChangePlan.ascx' se agregó al archivo WbCamPlan.aspx.
+Se ha quitado el atributo Codebehind del archivo wbcartera.aspx.
+El nivel de acceso de 'wwwSIM.wbcartera' cambió a 'Partial' en el archivo wbcartera.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wbcertif.aspx.
+El nivel de acceso de 'wwwSIM.wbcertif' cambió a 'Partial' en el archivo wbcertif.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/ucbuscer.ascx' se agregó al archivo wbcertif.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/ucadiccer.ascx' se agregó al archivo wbcertif.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/ucbenefi.ascx' se agregó al archivo wbcertif.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WbFind.ascx' se agregó al archivo wbcertif.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/ucbusaho.ascx' se agregó al archivo wbcertif.aspx.
+Se ha quitado el atributo Codebehind del archivo wbcierrectb.aspx.
+El nivel de acceso de 'wwwSIM.wbcierrectb' cambió a 'Partial' en el archivo wbcierrectb.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wbcierrems.aspx.
+El nivel de acceso de 'wwwSIM.wbcierrems' cambió a 'Partial' en el archivo wbcierrems.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wbclientes.aspx.
+El nivel de acceso de 'wwwSIM.wbclientes' cambió a 'Partial' en el archivo wbclientes.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WbFind.ascx' se agregó al archivo wbclientes.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WbUCLientes.ascx' se agregó al archivo wbclientes.aspx.
+Se ha quitado el atributo Codebehind del archivo wbcolector.aspx.
+El nivel de acceso de 'wwwSIM.wbcolector' cambió a 'Partial' en el archivo wbcolector.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/uccolector.ascx' se agregó al archivo wbcolector.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo wbcolector.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/ucColectorMulti.ascx' se agregó al archivo wbcolector.aspx.
+Se ha quitado el atributo Codebehind del archivo WbContratos.aspx.
+El nivel de acceso de 'wwwSIM.Wbcontratos' cambió a 'Partial' en el archivo WbContratos.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/cuwContratos.ascx' se agregó al archivo WbContratos.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo WbContratos.aspx.
+Se ha quitado el atributo Codebehind del archivo Wbctaaho.aspx.
+El nivel de acceso de 'wwwSIM.Wbctaaho' cambió a 'Partial' en el archivo Wbctaaho.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WbFind.ascx' se agregó al archivo Wbctaaho.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/ucctaaho.ascx' se agregó al archivo Wbctaaho.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/ucbenaho.ascx' se agregó al archivo Wbctaaho.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/ucbusaho.ascx' se agregó al archivo Wbctaaho.aspx.
+Se ha quitado el atributo Codebehind del archivo WbDesembolso.aspx.
+El nivel de acceso de 'wwwSIM.WbDesembolso' cambió a 'Partial' en el archivo WbDesembolso.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo WbDesembolso.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WbDesemb.ascx' se agregó al archivo WbDesembolso.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUsRefCli.ascx' se agregó al archivo WbDesembolso.aspx.
+Se ha quitado el atributo Codebehind del archivo wbestcta.aspx.
+El nivel de acceso de 'wwwSIM.wbestcta1' cambió a 'Partial' en el archivo wbestcta.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo WbFuenteIngr.aspx.
+El nivel de acceso de 'wwwSIM.WbFuenteIngr' cambió a 'Partial' en el archivo WbFuenteIngr.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WbFind.ascx' se agregó al archivo WbFuenteIngr.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WbUsFueFam.ascx' se agregó al archivo WbFuenteIngr.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WbUsFueDep.ascx' se agregó al archivo WbFuenteIngr.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WbUsFueInd.ascx' se agregó al archivo WbFuenteIngr.aspx.
+Se ha quitado el atributo Codebehind del archivo WbGarant.aspx.
+El nivel de acceso de 'wwwSIM.WbGarant' cambió a 'Partial' en el archivo WbGarant.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WbFind.ascx' se agregó al archivo WbGarant.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUsGarant.ascx' se agregó al archivo WbGarant.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUsFindFia.ascx' se agregó al archivo WbGarant.aspx.
+Se ha quitado el atributo Codebehind del archivo WbGarHip.aspx.
+El nivel de acceso de 'wwwSIM.WbGarHip' cambió a 'Partial' en el archivo WbGarHip.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/cuwGarHip.ascx' se agregó al archivo WbGarHip.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo WbGarHip.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/cuwRepHip.ascx' se agregó al archivo WbGarHip.aspx.
+Se ha quitado el atributo Codebehind del archivo WbGetCli.aspx.
+El nivel de acceso de 'wwwSIM.WbGetCli' cambió a 'Partial' en el archivo WbGetCli.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wbimportar.aspx.
+El nivel de acceso de 'wwwSIM.wbimportar' cambió a 'Partial' en el archivo wbimportar.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wbleerxml.aspx.
+El nivel de acceso de 'wwwSIM.wbleerxml' cambió a 'Partial' en el archivo wbleerxml.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wbLibretas.aspx.
+El nivel de acceso de 'wwwSIM.WbLibretas' cambió a 'Partial' en el archivo wbLibretas.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/cuwlibretas.ascx' se agregó al archivo wbLibretas.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo wbLibretas.aspx.
+Se ha quitado el atributo Codebehind del archivo wblineas.aspx.
+El nivel de acceso de 'wwwSIM.wblineas' cambió a 'Partial' en el archivo wblineas.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/ucbuslin.ascx' se agregó al archivo wblineas.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/uclincre.ascx' se agregó al archivo wblineas.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/ucgaslin.ascx' se agregó al archivo wblineas.aspx.
+Se ha quitado el atributo Codebehind del archivo wbliqaso.aspx.
+El nivel de acceso de 'wwwSIM.wbliqaso' cambió a 'Partial' en el archivo wbliqaso.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WbFind.ascx' se agregó al archivo wbliqaso.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/ucliquida.ascx' se agregó al archivo wbliqaso.aspx.
+Se ha quitado el atributo Codebehind del archivo WbMenSug.aspx.
+El nivel de acceso de 'wwwSIM.WbMenSug2' cambió a 'Partial' en el archivo WbMenSug.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo WbMenSug.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/CUWSugInd.ascx' se agregó al archivo WbMenSug.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUCGarantias.ascx' se agregó al archivo WbMenSug.aspx.
+Se ha quitado el atributo Codebehind del archivo wbmovaho.aspx.
+El nivel de acceso de 'wwwSIM.wbmovaho' cambió a 'Partial' en el archivo wbmovaho.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/ucbusaho.ascx' se agregó al archivo wbmovaho.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/ucdepaho.ascx' se agregó al archivo wbmovaho.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/ucretaho.ascx' se agregó al archivo wbmovaho.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/uchisaho.ascx' se agregó al archivo wbmovaho.aspx.
+Se ha quitado el atributo Codebehind del archivo wbmovimientos.aspx.
+El nivel de acceso de 'wwwSIM.wbmovimientos' cambió a 'Partial' en el archivo wbmovimientos.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/ucestadocta1.ascx' se agregó al archivo wbmovimientos.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo wbmovimientos.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/dgHistorialCreditos.ascx' se agregó al archivo wbmovimientos.aspx.
+Se ha quitado el atributo Codebehind del archivo wbPlanP.aspx.
+El nivel de acceso de 'wwwSIM.wbPlanP' cambió a 'Partial' en el archivo wbPlanP.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wbprincipal.aspx.
+El nivel de acceso de 'wwwSIM.wbprincipal' cambió a 'Partial' en el archivo wbprincipal.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wbprovaho.aspx.
+El nivel de acceso de 'wwwSIM.wbprovaho' cambió a 'Partial' en el archivo wbprovaho.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wbprovpla.aspx.
+El nivel de acceso de 'wwwSIM.wbprovpla' cambió a 'Partial' en el archivo wbprovpla.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wbreferencia.aspx.
+El nivel de acceso de 'wwwSIM.wbreferencia' cambió a 'Partial' en el archivo wbreferencia.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wbregistro.aspx.
+El nivel de acceso de 'wwwSIM.wbregistro' cambió a 'Partial' en el archivo wbregistro.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/ucbususu.ascx' se agregó al archivo wbregistro.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/ucregistro.ascx' se agregó al archivo wbregistro.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/uccreausu.ascx' se agregó al archivo wbregistro.aspx.
+Se ha quitado el atributo Codebehind del archivo wbreping.aspx.
+El nivel de acceso de 'wwwSIM.wbreping' cambió a 'Partial' en el archivo wbreping.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wbreportesaho.aspx.
+El nivel de acceso de 'wwwSIM.wbreportesaho' cambió a 'Partial' en el archivo wbreportesaho.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo WbReversion.aspx.
+El nivel de acceso de 'wwwSIM.WbReversion' cambió a 'Partial' en el archivo WbReversion.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo WbReversion.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WbUCReversion.ascx' se agregó al archivo WbReversion.aspx.
+Se ha quitado el atributo Codebehind del archivo wbsaldo.aspx.
+El nivel de acceso de 'wwwSIM.wbsaldo1' cambió a 'Partial' en el archivo wbsaldo.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo wbsaldo.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/wbsaldo.ascx' se agregó al archivo wbsaldo.aspx.
+Se ha quitado el atributo Codebehind del archivo WbSolicitud.aspx.
+El nivel de acceso de 'wwwSIM.WbSoli2' cambió a 'Partial' en el archivo WbSolicitud.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WbSolcred.ascx' se agregó al archivo WbSolicitud.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WbFind.ascx' se agregó al archivo WbSolicitud.aspx.
+Se ha quitado el atributo Codebehind del archivo WbSugInd.aspx.
+El nivel de acceso de 'wwwSIM.WbSugInd' cambió a 'Partial' en el archivo WbSugInd.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo WbSugInd.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/CuwPlan.ascx' se agregó al archivo WbSugInd.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/CUWSugInd.ascx' se agregó al archivo WbSugInd.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUCGarantias.ascx' se agregó al archivo WbSugInd.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/CuwCom.ascx' se agregó al archivo WbSugInd.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUsRefCli.ascx' se agregó al archivo WbSugInd.aspx.
+Se ha quitado el atributo Codebehind del archivo wbtraslados.aspx.
+El nivel de acceso de 'wwwSIM.wbtraslados' cambió a 'Partial' en el archivo wbtraslados.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/CuwTraslados.ascx' se agregó al archivo wbtraslados.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/WUCFindCre.ascx' se agregó al archivo wbtraslados.aspx.
+Se ha quitado el atributo Codebehind del archivo WFAdmGra.aspx.
+El nivel de acceso de 'wwwSIM.WFAdmGra' cambió a 'Partial' en el archivo WFAdmGra.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wfBalance.aspx.
+El nivel de acceso de 'wwwSIM.wfBalance' cambió a 'Partial' en el archivo wfBalance.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo WfBusLin.aspx.
+El nivel de acceso de 'wwwSIM.WfBusLin' cambió a 'Partial' en el archivo WfBusLin.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wfCatCtb.aspx.
+El nivel de acceso de 'wwwSIM.wfCatCtb' cambió a 'Partial' en el archivo wfCatCtb.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/CUWCatCon.ascx' se agregó al archivo wfCatCtb.aspx.
+La etiqueta 'Reference' con referencia a '~/controles/CUWCatalogo.ascx' se agregó al archivo wfCatCtb.aspx.
+Se ha quitado el atributo Codebehind del archivo wfClientes.aspx.
+El nivel de acceso de 'wwwSIM.wfClientes' cambió a 'Partial' en el archivo wfClientes.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wfConGen.aspx.
+El nivel de acceso de 'wwwSIM.wfConGen' cambió a 'Partial' en el archivo wfConGen.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wfConMov.aspx.
+El nivel de acceso de 'wwwSIM.wfConMov' cambió a 'Partial' en el archivo wfConMov.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo WFEstRes.aspx.
+El nivel de acceso de 'wwwSIM.WFEstRes' cambió a 'Partial' en el archivo WFEstRes.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wfgenBal.aspx.
+El nivel de acceso de 'wwwSIM.wfgenBal' cambió a 'Partial' en el archivo wfgenBal.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wfInsPar.aspx.
+El nivel de acceso de 'wwwSIM.wfInsPar' cambió a 'Partial' en el archivo wfInsPar.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wfLibMay.aspx.
+El nivel de acceso de 'wwwSIM.wfLibMay' cambió a 'Partial' en el archivo wfLibMay.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo WfLibMdet.aspx.
+El nivel de acceso de 'wwwSIM.WfLibMdet' cambió a 'Partial' en el archivo WfLibMdet.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wfLogin.aspx.
+El nivel de acceso de 'wwwSIM.wfLogin' cambió a 'Partial' en el archivo wfLogin.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wfpagosATM.aspx.
+El nivel de acceso de 'wwwSIM.wfpagosATM' cambió a 'Partial' en el archivo wfpagosATM.aspx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/wbpagos.ascx' se agregó al archivo wfpagosATM.aspx.
+Se ha quitado el atributo Codebehind del archivo WfPortada.aspx.
+El nivel de acceso de 'wwwSIM.WfPortada1' cambió a 'Partial' en el archivo WfPortada.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wfRepCtb.aspx.
+El nivel de acceso de 'wwwSIM.wfRepCtb' cambió a 'Partial' en el archivo wfRepCtb.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wfReporteIncorporacion.aspx.
+El nivel de acceso de 'wwwSIM.wfReporteIncorporacion' cambió a 'Partial' en el archivo wfReporteIncorporacion.aspx.vb (línea 9).
+Se ha quitado el atributo Codebehind del archivo wfReportes.aspx.
+El nivel de acceso de 'wwwSIM.wfReportes' cambió a 'Partial' en el archivo wfReportes.aspx.vb (línea 3).
+Se ha quitado el atributo Codebehind del archivo wfWork.aspx.
+El nivel de acceso de 'wwwSIM.wfWork' cambió a 'Partial' en el archivo wfWork.aspx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\barraNavegacion.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\barraNavegacion.ascx.
+El nivel de acceso de 'wwwSIM.barraNavegacion' cambió a 'Partial' en el archivo controles\barraNavegacion.ascx.vb (línea 3).
+Se han quitado las líneas con comentarios antes de la declaración designplaceholder del archivo controles\barraNavegacion.ascx.vb.    controles\barraNavegacion.ascx.vb (Line 13)
+Se ha quitado el atributo TargetSchema del archivo controles\CUWAprInd.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\CUWAprInd.ascx.
+El nivel de acceso de 'wwwSIM.CUWAprInd' cambió a 'Partial' en el archivo controles\CUWAprInd.ascx.vb (línea 10).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\CUWAprInd.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\CUWBancos.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\CUWBancos.ascx.
+El nivel de acceso de 'wwwSIM.CUWBancos' cambió a 'Partial' en el archivo controles\CUWBancos.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwCaja.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwCaja.ascx.
+El nivel de acceso de 'wwwSIM.cuwCaja' cambió a 'Partial' en el archivo controles\cuwCaja.ascx.vb (línea 10).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwCamAna.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwCamAna.ascx.
+El nivel de acceso de 'wwwSIM.cuwCamAna' cambió a 'Partial' en el archivo controles\cuwCamAna.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\CUWCatalogo.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\CUWCatalogo.ascx.
+El nivel de acceso de 'wwwSIM.CUWCatalogo' cambió a 'Partial' en el archivo controles\CUWCatalogo.ascx.vb (línea 10).
+Se ha quitado el atributo TargetSchema del archivo controles\CUWCatCon.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\CUWCatCon.ascx.
+El nivel de acceso de 'wwwSIM.CUWCatCon' cambió a 'Partial' en el archivo controles\CUWCatCon.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwCierreMs.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwCierreMs.ascx.
+El nivel de acceso de 'wwwSIM.cuwCierreMs' cambió a 'Partial' en el archivo controles\cuwCierreMs.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwclientes.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwclientes.ascx.
+El nivel de acceso de 'wwwSIM.cuwclientes' cambió a 'Partial' en el archivo controles\cuwclientes.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\CuwCom.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\CuwCom.ascx.
+El nivel de acceso de 'wwwSIM.CuwCom' cambió a 'Partial' en el archivo controles\CuwCom.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwConGen.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwConGen.ascx.
+El nivel de acceso de 'wwwSIM.cuwConGen' cambió a 'Partial' en el archivo controles\cuwConGen.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwConMov.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwConMov.ascx.
+El nivel de acceso de 'wwwSIM.cuwConMov' cambió a 'Partial' en el archivo controles\cuwConMov.ascx.vb (línea 9).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwContratos.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwContratos.ascx.
+El nivel de acceso de 'wwwSIM.cuwContratos' cambió a 'Partial' en el archivo controles\cuwContratos.ascx.vb (línea 12).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwDisBal1.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwDisBal1.ascx.
+El nivel de acceso de 'wwwSIM.cuwDisBal1' cambió a 'Partial' en el archivo controles\cuwDisBal1.ascx.vb (línea 9).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwDisRes1.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwDisRes1.ascx.
+El nivel de acceso de 'wwwSIM.cuwDisRes1' cambió a 'Partial' en el archivo controles\cuwDisRes1.ascx.vb (línea 9).
+Se ha quitado el atributo TargetSchema del archivo controles\Cuwflash1.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\Cuwflash1.ascx.
+El nivel de acceso de 'wwwSIM.Cuwflash1' cambió a 'Partial' en el archivo controles\Cuwflash1.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwFlashcli.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwFlashcli.ascx.
+El nivel de acceso de 'wwwSIM.cuwFlashcli' cambió a 'Partial' en el archivo controles\cuwFlashcli.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\CUWfondofm.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\CUWfondofm.ascx.
+El nivel de acceso de 'wwwSIM.CUWfondofm' cambió a 'Partial' en el archivo controles\CUWfondofm.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwGarHip.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwGarHip.ascx.
+El nivel de acceso de 'wwwSIM.cuwGarHip' cambió a 'Partial' en el archivo controles\cuwGarHip.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwGenBal.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwGenBal.ascx.
+El nivel de acceso de 'wwwSIM.cuwGenBal' cambió a 'Partial' en el archivo controles\cuwGenBal.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwGraf.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwGraf.ascx.
+El nivel de acceso de 'wwwSIM.cuwGraf' cambió a 'Partial' en el archivo controles\cuwGraf.ascx.vb (línea 10).
+Se ha quitado el atributo TargetSchema del archivo controles\CUWHeader.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\CUWHeader.ascx.
+El nivel de acceso de 'wwwSIM.CUWHeader' cambió a 'Partial' en el archivo controles\CUWHeader.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwInsPar.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwInsPar.ascx.
+El nivel de acceso de 'wwwSIM.cuwInsPar' cambió a 'Partial' en el archivo controles\cuwInsPar.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwIntro1.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwIntro1.ascx.
+El nivel de acceso de 'wwwSIM.cuwIntro1' cambió a 'Partial' en el archivo controles\cuwIntro1.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwintro2.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwintro2.ascx.
+El nivel de acceso de 'wwwSIM.cuwintro2' cambió a 'Partial' en el archivo controles\cuwintro2.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwIntro3.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwIntro3.ascx.
+El nivel de acceso de 'wwwSIM.cuwIntro3' cambió a 'Partial' en el archivo controles\cuwIntro3.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwintro4.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwintro4.ascx.
+El nivel de acceso de 'wwwSIM.cuwintro4' cambió a 'Partial' en el archivo controles\cuwintro4.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwLibDMay.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwLibDMay.ascx.
+El nivel de acceso de 'wwwSIM.cuwLibDMay' cambió a 'Partial' en el archivo controles\cuwLibDMay.ascx.vb (línea 10).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwlibretas.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwlibretas.ascx.
+El nivel de acceso de 'wwwSIM.cuwlibretas' cambió a 'Partial' en el archivo controles\cuwlibretas.ascx.vb (línea 10).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\cuwlibretas.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\CuwPlan.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\CuwPlan.ascx.
+El nivel de acceso de 'wwwSIM.CuwPlan' cambió a 'Partial' en el archivo controles\CuwPlan.ascx.vb (línea 10).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\CuwPlan.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\cuwRepCtb.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwRepCtb.ascx.
+El nivel de acceso de 'wwwSIM.cuwrepctb' cambió a 'Partial' en el archivo controles\cuwRepCtb.ascx.vb (línea 10).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\cuwRepCtb.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\cuwRepHip.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwRepHip.ascx.
+El nivel de acceso de 'wwwSIM.cuwRepHip' cambió a 'Partial' en el archivo controles\cuwRepHip.ascx.vb (línea 10).
+Se ha quitado el atributo TargetSchema del archivo controles\CUWSugInd.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\CUWSugInd.ascx.
+El nivel de acceso de 'wwwSIM.CUWSugInd' cambió a 'Partial' en el archivo controles\CUWSugInd.ascx.vb (línea 17).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\CUWSugInd.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\CuwTraslados.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\CuwTraslados.ascx.
+El nivel de acceso de 'wwwSIM.CuwTraslados' cambió a 'Partial' en el archivo controles\CuwTraslados.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cuwWork.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cuwWork.ascx.
+El nivel de acceso de 'wwwSIM.cuwWork' cambió a 'Partial' en el archivo controles\cuwWork.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\cwRecSol.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\cwRecSol.ascx.
+El nivel de acceso de 'wwwSIM.cwRecSol' cambió a 'Partial' en el archivo controles\cwRecSol.ascx.vb (línea 4).
+Se ha quitado el atributo TargetSchema del archivo controles\dgbuscre.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\dgbuscre.ascx.
+El nivel de acceso de 'wwwSIM.dgbuscre' cambió a 'Partial' en el archivo controles\dgbuscre.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\dgbuscta.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\dgbuscta.ascx.
+El nivel de acceso de 'wwwSIM.dgbuscta' cambió a 'Partial' en el archivo controles\dgbuscta.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\dgCreditos.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\dgCreditos.ascx.
+El nivel de acceso de 'wwwSIM.dgCreditos' cambió a 'Partial' en el archivo controles\dgCreditos.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\dgHistorialCreditos.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\dgHistorialCreditos.ascx.
+El nivel de acceso de 'wwwSIM.dgHistorialCreditos' cambió a 'Partial' en el archivo controles\dgHistorialCreditos.ascx.vb (línea 11).
+Se ha quitado el atributo TargetSchema del archivo controles\dgKardex.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\dgKardex.ascx.
+El nivel de acceso de 'wwwSIM.dgKardex' cambió a 'Partial' en el archivo controles\dgKardex.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\Encabezado.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\Encabezado.ascx.
+El nivel de acceso de 'wwwSIM.Encabezado' cambió a 'Partial' en el archivo controles\encabezado.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\entrada.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\entrada.ascx.
+El nivel de acceso de 'wwwSIM.entrada' cambió a 'Partial' en el archivo controles\entrada.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\HeadLargo.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\HeadLargo.ascx.
+El nivel de acceso de 'wwwSIM.HeadLargo' cambió a 'Partial' en el archivo controles\HeadLargo.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\Login.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\Login.ascx.
+El nivel de acceso de 'wwwSIM.Login' cambió a 'Partial' en el archivo controles\Login.ascx.vb (línea 5).
+Se ha quitado el atributo TargetSchema del archivo controles\MenuCliente.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\MenuCliente.ascx.
+El nivel de acceso de 'wwwSIM.MenuCliente' cambió a 'Partial' en el archivo controles\MenuCliente.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\MenuDistribuidora.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\MenuDistribuidora.ascx.
+El nivel de acceso de 'wwwSIM.MenuDistribuidora' cambió a 'Partial' en el archivo controles\MenuDistribuidora.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\MenuIzquierdo.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\MenuIzquierdo.ascx.
+El nivel de acceso de 'wwwSIM.MenuIzquierdo' cambió a 'Partial' en el archivo controles\MenuIzquierdo.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\MenuLateral.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\MenuLateral.ascx.
+El nivel de acceso de 'wwwSIM.MenuLateral' cambió a 'Partial' en el archivo controles\MenuLateral.ascx.vb (línea 5).
+Se ha quitado el atributo TargetSchema del archivo controles\Reportes.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\Reportes.ascx.
+El nivel de acceso de 'wwwSIM.Reportes' cambió a 'Partial' en el archivo controles\Reportes.ascx.vb (línea 10).
+Se ha quitado el atributo TargetSchema del archivo controles\ucadiccer.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucadiccer.ascx.
+El nivel de acceso de 'wwwSIM.ucadiccer' cambió a 'Partial' en el archivo controles\ucadiccer.ascx.vb (línea 4).
+Se ha quitado el atributo TargetSchema del archivo controles\ucbenaho.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucbenaho.ascx.
+El nivel de acceso de 'wwwSIM.ucbenaho' cambió a 'Partial' en el archivo controles\ucbenaho.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\ucbenefi.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucbenefi.ascx.
+El nivel de acceso de 'wwwSIM.ucbenefi' cambió a 'Partial' en el archivo controles\ucbenefi.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\ucbusaho.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucbusaho.ascx.
+El nivel de acceso de 'wwwSIM.ucbusaho' cambió a 'Partial' en el archivo controles\ucbusaho.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\ucbuscer.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucbuscer.ascx.
+El nivel de acceso de 'wwwSIM.ucbuscer' cambió a 'Partial' en el archivo controles\ucbuscer.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\ucbuslin.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucbuslin.ascx.
+El nivel de acceso de 'wwwSIM.ucbuslin' cambió a 'Partial' en el archivo controles\ucbuslin.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\ucbususu.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucbususu.ascx.
+El nivel de acceso de 'wwwSIM.ucbususu' cambió a 'Partial' en el archivo controles\ucbususu.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\uccalmora.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\uccalmora.ascx.
+El nivel de acceso de 'wwwSIM.uccalmora' cambió a 'Partial' en el archivo controles\uccalmora.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\uccamfec.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\uccamfec.ascx.
+El nivel de acceso de 'wwwSIM.uccamfec' cambió a 'Partial' en el archivo controles\uccamfec.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\uccartera.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\uccartera.ascx.
+El nivel de acceso de 'wwwSIM.uccartera' cambió a 'Partial' en el archivo controles\uccartera.ascx.vb (línea 11).
+Se ha quitado el atributo TargetSchema del archivo controles\uccierre.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\uccierre.ascx.
+El nivel de acceso de 'wwwSIM.uccierre' cambió a 'Partial' en el archivo controles\uccierre.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\uccolector.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\uccolector.ascx.
+El nivel de acceso de 'wwwSIM.uccolector' cambió a 'Partial' en el archivo controles\uccolector.ascx.vb (línea 10).
+Se ha quitado el atributo TargetSchema del archivo controles\ucColectorMulti.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucColectorMulti.ascx.
+El nivel de acceso de 'wwwSIM.ucColectorMulti' cambió a 'Partial' en el archivo controles\ucColectorMulti.ascx.vb (línea 10).
+Se ha quitado el atributo TargetSchema del archivo controles\uccreausu.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\uccreausu.ascx.
+El nivel de acceso de 'wwwSIM.uccreausu' cambió a 'Partial' en el archivo controles\uccreausu.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\ucctaaho.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucctaaho.ascx.
+El nivel de acceso de 'wwwSIM.ucctaaho' cambió a 'Partial' en el archivo controles\ucctaaho.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\ucdepaho.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucdepaho.ascx.
+El nivel de acceso de 'wwwSIM.ucdepaho' cambió a 'Partial' en el archivo controles\ucdepaho.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\ucestadocta.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucestadocta.ascx.
+El nivel de acceso de 'wwwSIM.ucestadocta' cambió a 'Partial' en el archivo controles\ucestadocta.ascx.vb (línea 10).
+Se ha quitado el atributo TargetSchema del archivo controles\ucestadocta1.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucestadocta1.ascx.
+El nivel de acceso de 'wwwSIM.ucestadocta1' cambió a 'Partial' en el archivo controles\ucestadocta1.ascx.vb (línea 10).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\ucestadocta1.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\ucestctactb.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucestctactb.ascx.
+El nivel de acceso de 'wwwSIM.ucestctactb' cambió a 'Partial' en el archivo controles\ucestctactb.ascx.vb (línea 11).
+Se ha quitado el atributo TargetSchema del archivo controles\ucgaslin.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucgaslin.ascx.
+El nivel de acceso de 'wwwSIM.ucgaslin' cambió a 'Partial' en el archivo controles\ucgaslin.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\uchisaho.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\uchisaho.ascx.
+El nivel de acceso de 'wwwSIM.uchisaho' cambió a 'Partial' en el archivo controles\uchisaho.ascx.vb (línea 11).
+Se ha quitado el atributo TargetSchema del archivo controles\uchistorial.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\uchistorial.ascx.
+El nivel de acceso de 'wwwSIM.uchistorial' cambió a 'Partial' en el archivo controles\uchistorial.ascx.vb (línea 11).
+Se ha quitado el atributo TargetSchema del archivo controles\ucimportar.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucimportar.ascx.
+El nivel de acceso de 'wwwSIM.ucimportar' cambió a 'Partial' en el archivo controles\ucimportar.ascx.vb (línea 18).
+Se ha quitado el atributo TargetSchema del archivo controles\ucingresos.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucingresos.ascx.
+El nivel de acceso de 'wwwSIM.ucingresos' cambió a 'Partial' en el archivo controles\ucingresos.ascx.vb (línea 9).
+Se ha quitado el atributo TargetSchema del archivo controles\ucleerxml.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucleerxml.ascx.
+El nivel de acceso de 'wwwSIM.ucleerxml' cambió a 'Partial' en el archivo controles\ucleerxml.ascx.vb (línea 19).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\ucleerxml.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\uclincre.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\uclincre.ascx.
+El nivel de acceso de 'wwwSIM.uclincre' cambió a 'Partial' en el archivo controles\uclincre.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\ucliquida.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucliquida.ascx.
+El nivel de acceso de 'wwwSIM.ucliquida' cambió a 'Partial' en el archivo controles\ucliquida.ascx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/dgCreditos.ascx' se agregó al archivo controles\ucliquida.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\ucMensajePrueba.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucMensajePrueba.ascx.
+El nivel de acceso de 'wwwSIM.ucMensajePrueba' cambió a 'Partial' en el archivo controles\ucMensajePrueba.ascx.vb (línea 3).
+Se actualizó el atributo 'CodeFileBaseClass' con el valor 'wwwSIM.ucWBase' en el archivo 'controles\ucMensajePrueba.ascx'.
+Se ha quitado el atributo TargetSchema del archivo controles\ucmovimientos.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucmovimientos.ascx.
+El nivel de acceso de 'wwwSIM.ucmovimientos' cambió a 'Partial' en el archivo controles\ucmovimientos.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\ucprovaporta.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucprovaporta.ascx.
+El nivel de acceso de 'wwwSIM.ucprovaporta' cambió a 'Partial' en el archivo controles\ucprovaporta.ascx.vb (línea 11).
+Se ha quitado el atributo TargetSchema del archivo controles\ucprovisiones.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucprovisiones.ascx.
+El nivel de acceso de 'wwwSIM.ucprovisiones' cambió a 'Partial' en el archivo controles\ucprovisiones.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\ucprovpla.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucprovpla.ascx.
+El nivel de acceso de 'wwwSIM.ucprovpla' cambió a 'Partial' en el archivo controles\ucprovpla.ascx.vb (línea 11).
+Se ha quitado el atributo TargetSchema del archivo controles\ucregistro.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucregistro.ascx.
+El nivel de acceso de 'wwwSIM.ucregistro' cambió a 'Partial' en el archivo controles\ucregistro.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\ucreportesaho.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucreportesaho.ascx.
+El nivel de acceso de 'wwwSIM.ucreportesaho' cambió a 'Partial' en el archivo controles\ucreportesaho.ascx.vb (línea 16).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\ucreportesaho.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\ucretaho.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\ucretaho.ascx.
+El nivel de acceso de 'wwwSIM.ucretaho' cambió a 'Partial' en el archivo controles\ucretaho.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\usmodrep.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\usmodrep.ascx.
+El nivel de acceso de 'wwwSIM.usmodrep' cambió a 'Partial' en el archivo controles\usmodrep.ascx.vb (línea 13).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\usmodrep.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\VistaDetalleCremcre.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\VistaDetalleCremcre.ascx.
+El nivel de acceso de 'wwwSIM.VistaDetalleCremcre' cambió a 'Partial' en el archivo controles\VistaDetalleCremcre.ascx.vb (línea 3).
+Se han quitado las líneas con comentarios antes de la declaración designplaceholder del archivo controles\VistaDetalleCremcre.ascx.vb.    controles\VistaDetalleCremcre.ascx.vb (Line 18)
+Se ha quitado el atributo TargetSchema del archivo controles\wbamortizactl.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\wbamortizactl.ascx.
+El nivel de acceso de 'wwwSIM.wbamortizactl' cambió a 'Partial' en el archivo controles\wbamortizactl.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\wbanulapagos.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\wbanulapagos.ascx.
+El nivel de acceso de 'wwwSIM.wbanulapagos' cambió a 'Partial' en el archivo controles\wbanulapagos.ascx.vb (línea 10).
+Se ha quitado el atributo TargetSchema del archivo controles\wbbusqudas.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\wbbusqudas.ascx.
+El nivel de acceso de 'wwwSIM.wbbusqudas' cambió a 'Partial' en el archivo controles\wbbusqudas.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\WbCreditos.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbCreditos.ascx.
+El nivel de acceso de 'wwwSIM.WbCreditos' cambió a 'Partial' en el archivo controles\WbCreditos.ascx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/WbFind.ascx' se agregó al archivo controles\WbCreditos.ascx.
+La etiqueta 'Reference' con referencia a '~/controles/WbCreditosClientes.ascx' se agregó al archivo controles\WbCreditos.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\WbCreditosClientes.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbCreditosClientes.ascx.
+El nivel de acceso de 'wwwSIM.WbCreditosClientes' cambió a 'Partial' en el archivo controles\WbCreditosClientes.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\WbDesemb.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbDesemb.ascx.
+El nivel de acceso de 'wwwSIM.WbDesemb1' cambió a 'Partial' en el archivo controles\WbDesemb.ascx.vb (línea 9).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\WbDesemb.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\wbestcta.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\wbestcta.ascx.
+El nivel de acceso de 'wwwSIM.wbestcta' cambió a 'Partial' en el archivo controles\wbestcta.ascx.vb (línea 3).
+La etiqueta 'Reference' con referencia a '~/controles/dgCreditos.ascx' se agregó al archivo controles\wbestcta.ascx.
+La etiqueta 'Reference' con referencia a '~/controles/dgHistorialCreditos.ascx' se agregó al archivo controles\wbestcta.ascx.
+La etiqueta 'Reference' con referencia a '~/controles/dgKardex.ascx' se agregó al archivo controles\wbestcta.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\WbFind.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbFind.ascx.
+El nivel de acceso de 'wwwSIM.WbFind' cambió a 'Partial' en el archivo controles\WbFind.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\wbpagos.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\wbpagos.ascx.
+El nivel de acceso de 'wwwSIM.wbpagos' cambió a 'Partial' en el archivo controles\wbpagos.ascx.vb (línea 10).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\wbpagos.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\wbpagosATM.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\wbpagosATM.ascx.
+El nivel de acceso de 'wwwSIM.wbpagosATM' cambió a 'Partial' en el archivo controles\wbpagosATM.ascx.vb (línea 10).
+Se ha quitado el atributo TargetSchema del archivo controles\wbsaldo.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\wbsaldo.ascx.
+El nivel de acceso de 'wwwSIM.wbsaldo' cambió a 'Partial' en el archivo controles\wbsaldo.ascx.vb (línea 10).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\wbsaldo.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\WbSolcred.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbSolcred.ascx.
+El nivel de acceso de 'wwwSIM.WbSolcred' cambió a 'Partial' en el archivo controles\WbSolcred.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\WbUCLientes.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbUCLientes.ascx.
+El nivel de acceso de 'wwwSIM.WbUCLientes' cambió a 'Partial' en el archivo controles\WbUCLientes.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\WbUCReversion.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbUCReversion.ascx.
+El nivel de acceso de 'wwwSIM.WbUCReversion' cambió a 'Partial' en el archivo controles\WbUCReversion.ascx.vb (línea 10).
+Se ha quitado el atributo TargetSchema del archivo controles\WbUsAdRpt.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbUsAdRpt.ascx.
+El nivel de acceso de 'wwwSIM.WbUsAdRpt' cambió a 'Partial' en el archivo controles\WbUsAdRpt.ascx.vb (línea 12).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\WbUsAdRpt.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\WbUsBalance.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbUsBalance.ascx.
+El nivel de acceso de 'wwwSIM.WbUsBalance' cambió a 'Partial' en el archivo controles\WbUsBalance.ascx.vb (línea 11).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\WbUsBalance.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\WbUsCAdChq.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbUsCAdChq.ascx.
+El nivel de acceso de 'wwwSIM.WbUsCAdChq' cambió a 'Partial' en el archivo controles\WbUsCAdChq.ascx.vb (línea 9).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\WbUsCAdChq.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\WbUsCAdPartida.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbUsCAdPartida.ascx.
+El nivel de acceso de 'wwwSIM.WbUsCAdPartida' cambió a 'Partial' en el archivo controles\WbUsCAdPartida.ascx.vb (línea 9).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\WbUsCAdPartida.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\WbUsCatal.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbUsCatal.ascx.
+El nivel de acceso de 'wwwSIM.WbUsCatal' cambió a 'Partial' en el archivo controles\WbUsCatal.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\WbUsFindPart.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbUsFindPart.ascx.
+El nivel de acceso de 'wwwSIM.WbUsFindPart' cambió a 'Partial' en el archivo controles\WbUsFindPart.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\WbUsFueDep.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbUsFueDep.ascx.
+El nivel de acceso de 'wwwSIM.WbUsFueDep' cambió a 'Partial' en el archivo controles\WbUsFueDep.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\WbUsFueFam.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbUsFueFam.ascx.
+El nivel de acceso de 'wwwSIM.WbUsFueFam' cambió a 'Partial' en el archivo controles\WbUsFueFam.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\WbUsFueInd.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WbUsFueInd.ascx.
+El nivel de acceso de 'wwwSIM.WbUsFueInd' cambió a 'Partial' en el archivo controles\WbUsFueInd.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\wubPlanp.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\wubPlanp.ascx.
+El nivel de acceso de 'wwwSIM.wubPlanp' cambió a 'Partial' en el archivo controles\wubPlanp.ascx.vb (línea 10).
+La etiqueta 'Reference' con referencia a '~/controles/Reportes.ascx' se agregó al archivo controles\wubPlanp.ascx.
+Se ha quitado el atributo TargetSchema del archivo controles\wucChangePlan.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\wucChangePlan.ascx.
+El nivel de acceso de 'wwwSIM.wucChangePlan' cambió a 'Partial' en el archivo controles\wucChangePlan.ascx.vb (línea 9).
+Se ha quitado el atributo TargetSchema del archivo controles\wucDatRef.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\wucDatRef.ascx.
+El nivel de acceso de 'wwwSIM.wucDatRef' cambió a 'Partial' en el archivo controles\wucDatRef.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\WUCFindCre.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WUCFindCre.ascx.
+El nivel de acceso de 'wwwSIM.WUCFindCre' cambió a 'Partial' en el archivo controles\WUCFindCre.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\WUCGarantias.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WUCGarantias.ascx.
+El nivel de acceso de 'wwwSIM.WUCGarantias' cambió a 'Partial' en el archivo controles\WUCGarantias.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\WUCGetLin.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WUCGetLin.ascx.
+El nivel de acceso de 'wwwSIM.WUCGetLin' cambió a 'Partial' en el archivo controles\WUCGetLin.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\WUCLibMdet.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WUCLibMdet.ascx.
+El nivel de acceso de 'wwwSIM.WUCLibMdet' cambió a 'Partial' en el archivo controles\WUCLibMdet.ascx.vb (línea 10).
+Se ha quitado el atributo TargetSchema del archivo controles\WUsFindFia.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WUsFindFia.ascx.
+El nivel de acceso de 'wwwSIM.WUsFindFia' cambió a 'Partial' en el archivo controles\WUsFindFia.ascx.vb (línea 3).
+Se ha quitado el atributo TargetSchema del archivo controles\WUsGarant.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WUsGarant.ascx.
+El nivel de acceso de 'wwwSIM.WUsGarant' cambió a 'Partial' en el archivo controles\WUsGarant.ascx.vb (línea 9).
+Se ha quitado el atributo TargetSchema del archivo controles\WUsRefCli.ascx.
+Se ha quitado el atributo Codebehind del archivo controles\WUsRefCli.ascx.
+El nivel de acceso de 'wwwSIM.WUsRefCli' cambió a 'Partial' en el archivo controles\WUsRefCli.ascx.vb (línea 3).
+Se ha agregado la carpeta App_Code\dataset.
+Se ha movido el archivo dataset\dscontratos.xsd al directorio App_Code\dataset\.
+Se ha cambiado el nombre del archivo App_Code\dataset\dscontratos.xsd a wwwSIM.dscontratos.xsd.
+Se ha quitado el archivo dataset\dscontratos.vb.
+Se ha movido el archivo dataset\dsGrafico.xsd al directorio App_Code\dataset\.
+Se ha cambiado el nombre del archivo App_Code\dataset\dsGrafico.xsd a wwwSIM.dsGrafico.xsd.
+Se ha quitado el archivo dataset\dsGrafico.vb.
+Se ha agregado la carpeta App_Code\reportes.
+Se ha movido el archivo reportes\Rptscotia.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\RptPartida.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\RptDesem.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\RptCartVig.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crsaldos1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crrevpagos.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crresumenr.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crresumenc.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crrestasa.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crreserva2.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crrecpag.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crpagosATM1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\cringresoscre22.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crGSalOfi.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\CrGOfi.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crgarhip.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crestres.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crestado.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crEdad.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crdetmor.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crdesembol.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crConCta1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcartera1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcarfon2.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcarana2.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crbaleco1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crbalcom.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\CRAprSol2.vb al directorio App_Code\reportes\.
+Se ha agregado la carpeta App_Code\controles.
+Se ha movido el archivo controles\ucWBase.vb al directorio App_Code\controles\.
+Se ha movido el archivo reportes\RptCaja.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\PlandePagos1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crtipocre.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\Crstatecount.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crSector.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crresumenA.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\Crresumen.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crpromor.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crplanpago1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crPlan1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\CrMultiColector.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crmovaho.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\Crhiscre.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\CrGGenCar.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crGenero.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crGDes.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crextornos.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crestcta1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crdetcar.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crCatalogo1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcarusu3.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcarterase.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcarterarm.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcarteraga.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\CrCaja.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\cragenda21.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\cragenda.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\cractividad.vb al directorio App_Code\reportes\.
+Se ha movido el archivo Global.asax.vb al directorio App_Code\.
+Se ha movido el archivo reportes\crvencen2.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\CrRevDes.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crResultado1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crproyeccion2.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crprocuotas.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crpagos.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crnopagos3.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crmovaho1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crlmauxiliar2.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crLibroDeta.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crintaho1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\cringresoscre3.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\CrIA.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\CrGarant.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\Crfactura.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crdesercion.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crdesembolsos22.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crCreditos.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcarteradc.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcarmor31.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcaraho.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crbalance1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crafectada.vb al directorio App_Code\reportes\.
+Se ha movido el archivo PageBase.vb al directorio App_Code\.
+Se ha movido el archivo reportes\PlandeP.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crsecuencia.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\CrRptDesem.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crresumenc1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crreppagos.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crrangos.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crproyeccionOb.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crprovaho.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crplazos.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crmunicipios.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crlispar.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crLibro.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\Crlibretas.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crintpla.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\cringresosfil.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\CrGGenero.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crestres22.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crestctactb1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crdetalle.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crConsal1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcolocacion.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcolector.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcarpla1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcarpara.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcarmor22.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcancelados3.vb al directorio App_Code\reportes\.
+Se ha agregado la carpeta App_Code\Web.
+Se ha movido el archivo Web\Header.ascx.vb al directorio App_Code\Web\.
+Se ha movido el archivo reportes\RptCheques.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crResCom2.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crprocuotas1.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crLibro11.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crintcerp.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\cringfom2.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\Crhiscre2.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\CrGAntMor.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crestrato3.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crestcta.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crdestino.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crContratos.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcartasa.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crcargen2.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crbalgen2.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\crbalgen.vb al directorio App_Code\reportes\.
+Se ha movido el archivo reportes\AssemblyInfo.vb al directorio App_Code\reportes\.
+Se ha movido el archivo WFSugInd.aspx.vb al directorio App_Code\.
+Se ha cambiado el nombre del archivo resources\Resource.en.resx a resources.Resource.en.resx.
+Se ha agregado la carpeta App_GlobalResources.
+Se ha movido el archivo resources\resources.Resource.en.resx al directorio App_GlobalResources.
+Se ha cambiado el nombre del archivo resources\Resource.es.resx a resources.Resource.es.resx.
+Se ha movido el archivo resources\resources.Resource.es.resx al directorio App_GlobalResources.
+Se ha cambiado el nombre del archivo resources\Resource.fr.resx a resources.Resource.fr.resx.
+Se ha movido el archivo resources\resources.Resource.fr.resx al directorio App_GlobalResources.
+Se ha quitado el archivo Bin\wwwSIM.dll.
+Se ha quitado el archivo Bin\wwwSIM.pdb.
+Se ha quitado el archivo wwwSIM.vbproj.
+Se ha quitado el archivo wwwSIM.vbproj.webinfo.
+Se ha cambiado el nombre del archivo controles\logincopy.ascx a logincopy.ascx.exclude.
+Se ha cambiado el nombre del archivo wfcausas.aspx a wfcausas.aspx.exclude.
+Se ha cambiado el nombre del archivo controles\cuwplanchange.ascx a cuwplanchange.ascx.exclude.
+Se ha cambiado el nombre del archivo temporal.aspx a temporal.aspx.exclude.
+Se ha cambiado el nombre del archivo controles\entrada1a.aspx a entrada1a.aspx.exclude.
+Se ha cambiado el nombre del archivo wfgarantias.aspx a wfgarantias.aspx.exclude.
+Se ha cambiado el nombre del archivo reportes\crplanservice.asmx a crplanservice.asmx.exclude.
+Se ha cambiado el nombre del archivo prueba.aspx a prueba.aspx.exclude.
+Se ha cambiado el nombre del archivo cwrecsol.ascx a cwrecsol.ascx.exclude.
+Se ha cambiado el nombre del archivo controles\mensaje.ascx a mensaje.ascx.exclude.
+Se ha cambiado el nombre del archivo controles\wbaprind.aspx a wbaprind.aspx.exclude.
+Se ha cambiado el nombre del archivo wfplan.aspx a wfplan.aspx.exclude.
+Se ha cambiado el nombre del archivo websugind.aspx a websugind.aspx.exclude.
+Se ha cambiado el nombre del archivo wbanulapagos.ascx a wbanulapagos.ascx.exclude.
+Se ha cambiado el nombre del archivo controles\js1.ascx a js1.ascx.exclude.
+El proyecto wwwSIM.vbproj se ha convertido correctamente en November 29 2008, 09:18:44.

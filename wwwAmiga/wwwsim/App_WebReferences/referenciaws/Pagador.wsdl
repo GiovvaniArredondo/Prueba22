@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:tns="http://portal.redchapina.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns="http://schemas.xmlsoap.org/wsdl/" name="Pagador" targetNamespace="http://portal.redchapina.com/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://portal.redchapina.com/">
+      <xsd:complexType name="ConsultarRemesa">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="ID_OPERACION" type="xsd:string" />
+          <xsd:element name="ID_PAGADOR" type="xsd:string" />
+          <xsd:element name="CORRELATIVO_ID" type="xsd:int" />
+          <xsd:element name="LLAVE_SECUNDARIA" type="xsd:string" />
+          <xsd:element name="BEN_PRIMER_NOMBRE" type="xsd:string" />
+          <xsd:element name="BEN_SEGUNDO_NOMBRE" type="xsd:string" />
+          <xsd:element name="BEN_PRIMER_APELLIDO" type="xsd:string" />
+          <xsd:element name="BEN_SEGUNDO_APELLIDO" type="xsd:string" />
+          <xsd:element name="BEN_TELEFONO" type="xsd:string" />
+          <xsd:element name="REM_PRIMER_NOMBRE" type="xsd:string" />
+          <xsd:element name="REM_SEGUNDO_NOMBRE" type="xsd:string" />
+          <xsd:element name="REM_PRIMER_APELLIDO" type="xsd:string" />
+          <xsd:element name="REM_SEGUNDO_APELLIDO" type="xsd:string" />
+          <xsd:element name="MONTO_ENVIADO" type="xsd:double" />
+          <xsd:element name="MONTO_PAGAR" type="xsd:double" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="ConsultarRemesaElement" type="tns:ConsultarRemesa" />
+      <xsd:complexType name="RespuestaConsultaRemesa">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="CANTIDAD_REGISTROS" type="xsd:string" />
+          <xsd:element name="LISTADO" type="tns:RegistroIdUnoArray" />
+          <xsd:element name="CODIGO_MENSAJE" type="xsd:string" />
+          <xsd:element name="TEXTO_MENSAJE" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="RespuestaConsultaRemesaElement" type="tns:RespuestaConsultaRemesa" />
+      <xsd:complexType name="RegistroIdUno">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="ID_INTERNO" type="xsd:string" />
+          <xsd:element name="ID_OPERACION" type="xsd:string" />
+          <xsd:element name="CORRELATIVO_ID" type="xsd:string" />
+          <xsd:element name="REMESADOR" type="xsd:string" />
+          <xsd:element name="REM_PRIMER_NOMBRE" type="xsd:string" />
+          <xsd:element name="REM_SEGUNDO_NOMBRE" type="xsd:string" />
+          <xsd:element name="REM_PRIMER_APELLIDO" type="xsd:string" />
+          <xsd:element name="REM_SEGUNDO_APELLIDO" type="xsd:string" />
+          <xsd:element name="REM_PAIS" type="xsd:string" />
+          <xsd:element name="REM_ESTADO" type="xsd:string" />
+          <xsd:element name="REM_CIUDAD" type="xsd:string" />
+          <xsd:element name="REM_DIRECCION" type="xsd:string" />
+          <xsd:element name="BEN_PRIMER_NOMBRE" type="xsd:string" />
+          <xsd:element name="BEN_SEGUNDO_NOMBRE" type="xsd:string" />
+          <xsd:element name="BEN_PRIMER_APELLIDO" type="xsd:string" />
+          <xsd:element name="BEN_SEGUNDO_APELLIDO" type="xsd:string" />
+          <xsd:element name="BEN_TELEFONO" type="xsd:string" />
+          <xsd:element name="BEN_PAIS" type="xsd:string" />
+          <xsd:element name="MONEDA_ORIGEN" type="xsd:string" />
+          <xsd:element name="MONEDA_PAGO" type="xsd:string" />
+          <xsd:element name="VALOR_ENVIADO" type="xsd:string" />
+          <xsd:element name="VALOR_PAGAR" type="xsd:string" />
+          <xsd:element name="ESTADO_GIRO" type="xsd:string" />
+          <xsd:element name="OBSERVACIONES" type="xsd:string" />
+          <xsd:element name="TASA_CAMBIO" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="RegistroIdUnoElement" type="tns:RegistroIdUno" />
+      <xsd:complexType name="RegistroIdUnoArray">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="item" type="tns:RegistroIdUno" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="RegistroIdUnoArrayElement" type="tns:RegistroIdUnoArray" />
+      <xsd:complexType name="ReservarRemesa">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="ID_INTERNO" type="xsd:string" />
+          <xsd:element name="ID_OPERACION" type="xsd:string" />
+          <xsd:element name="ID_PAGADOR" type="xsd:string" />
+          <xsd:element name="CORRELATIVO_ID" type="xsd:int" />
+          <xsd:element name="VALOR_PAGAR" type="xsd:double" />
+          <xsd:element name="LOCAL_RESERVA" type="xsd:string" />
+          <xsd:element name="CAJA_RESERVA" type="xsd:string" />
+          <xsd:element name="CAJERO_RESERVA" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="ReservarRemesaElement" type="tns:ReservarRemesa" />
+      <xsd:complexType name="RespuestaReservaRemesa">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="ID_INTERNO" type="xsd:string" />
+          <xsd:element name="ID_RESERVA" type="xsd:string" />
+          <xsd:element name="FECHA_VENCE_RESERVA" type="xsd:string" />
+          <xsd:element name="HORA_VENCE_RESERVA" type="xsd:string" />
+          <xsd:element name="CODIGO_MENSAJE" type="xsd:string" />
+          <xsd:element name="TEXTO_MENSAJE" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="RespuestaReservaRemesaElement" type="tns:RespuestaReservaRemesa" />
+      <xsd:complexType name="LiberarRemesa">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="ID_INTERNO" type="xsd:string" />
+          <xsd:element name="ID_PAGADOR" type="xsd:string" />
+          <xsd:element name="ID_RESERVA" type="xsd:string" />
+          <xsd:element name="ID_OPERACION" type="xsd:string" />
+          <xsd:element name="CORRELATIVO_ID" type="xsd:int" />
+          <xsd:element name="VALOR_PAGAR" type="xsd:double" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="LiberarRemesaElement" type="tns:LiberarRemesa" />
+      <xsd:complexType name="RespuestaLiberaRemesa">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="ID_INTERNO" type="xsd:string" />
+          <xsd:element name="ID_LIBERACION" type="xsd:string" />
+          <xsd:element name="ID_PAGADOR" type="xsd:string" />
+          <xsd:element name="FECHA_LIBERACION" type="xsd:string" />
+          <xsd:element name="HORA_LIBERACION" type="xsd:string" />
+          <xsd:element name="CODIGO_MENSAJE" type="xsd:string" />
+          <xsd:element name="TEXTO_MENSAJE" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="RespuestaLiberaRemesaElement" type="tns:RespuestaLiberaRemesa" />
+      <xsd:complexType name="AnularPagoRemesa">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="ID_INTERNO" type="xsd:string" />
+          <xsd:element name="ID_PAGADOR" type="xsd:string" />
+          <xsd:element name="ID_PAGO" type="xsd:string" />
+          <xsd:element name="ID_OPERACION" type="xsd:string" />
+          <xsd:element name="CORRELATIVO_ID" type="xsd:int" />
+          <xsd:element name="MOTIVO_ANULACION" type="xsd:string" />
+          <xsd:element name="DETALLE_ANULACION" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="AnularPagoRemesaElement" type="tns:AnularPagoRemesa" />
+      <xsd:complexType name="RespuestaAnulaRemesa">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="ID_INTERNO" type="xsd:string" />
+          <xsd:element name="ID_ANULACION" type="xsd:string" />
+          <xsd:element name="FECHA_ANULACION" type="xsd:string" />
+          <xsd:element name="HORA_ANULACION" type="xsd:string" />
+          <xsd:element name="CODIGO_MENSAJE" type="xsd:string" />
+          <xsd:element name="TEXTO_MENSAJE" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="RespuestaAnulaRemesaElement" type="tns:RespuestaAnulaRemesa" />
+      <xsd:complexType name="PagarRemesa">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="ID_PAGADOR" type="xsd:string" />
+          <xsd:element name="ID_INTERNO" type="xsd:string" />
+          <xsd:element name="ID_OPERACION" type="xsd:string" />
+          <xsd:element name="CORRELATIVO_ID" type="xsd:string" />
+          <xsd:element name="ID_RESERVA" type="xsd:string" />
+          <xsd:element name="MONEDA_PAGO" type="xsd:string" />
+          <xsd:element name="VALOR_PAGAR" type="xsd:double" />
+          <xsd:element name="BEN_PRIMER_NOMBRE" type="xsd:string" />
+          <xsd:element name="BEN_SEGUNDO_NOMBRE" type="xsd:string" />
+          <xsd:element name="BEN_PRIMER_APELLIDO" type="xsd:string" />
+          <xsd:element name="BEN_SEGUNDO_APELLIDO" type="xsd:string" />
+          <xsd:element name="BEN_TELEFONO" type="xsd:string" />
+          <xsd:element name="BEN_TIPO_IDENTIFICACION" type="xsd:string" />
+          <xsd:element name="BEN_NUMERO_IDENTIFICACION" type="xsd:string" />
+          <xsd:element name="FECHA_PAGO" type="xsd:string" />
+          <xsd:element name="HORA_PAGO" type="xsd:string" />
+          <xsd:element name="LOCAL_RESERVA" type="xsd:string" />
+          <xsd:element name="CAJA_RESERVA" type="xsd:string" />
+          <xsd:element name="CAJERO_RESERVA" type="xsd:string" />
+          <xsd:element name="CODIGO_BEBEFICIARIO" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="PagarRemesaElement" type="tns:PagarRemesa" />
+      <xsd:complexType name="RespuestaPagoRemesa">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="ID_INTERNO" type="xsd:string" />
+          <xsd:element name="ID_PAGO" type="xsd:string" />
+          <xsd:element name="FECHA_PAGO" type="xsd:string" />
+          <xsd:element name="HORA_PAGO" type="xsd:string" />
+          <xsd:element name="CODIGO_MENSAJE" type="xsd:string" />
+          <xsd:element name="TEXTO_MENSAJE" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="RespuestaPagoRemesaElement" type="tns:RespuestaPagoRemesa" />
+      <xsd:complexType name="ConsultaRemesasPagadas">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="ID_PAGADOR" type="xsd:string" />
+          <xsd:element name="FECHA_INICIAL" type="xsd:string" />
+          <xsd:element name="FECHA_FINAL" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="ConsultaRemesasPagadasElement" type="tns:ConsultaRemesasPagadas" />
+      <xsd:complexType name="RespuestaPagos">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="CODIGO_MENSAJE" type="xsd:string" />
+          <xsd:element name="TEXTO_MENSAJE" type="xsd:string" />
+          <xsd:element name="CANTIDAD" type="xsd:double" />
+          <xsd:element name="LISTADO" type="tns:RespuestaListadoPagosArray" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="RespuestaPagosElement" type="tns:RespuestaPagos" />
+      <xsd:complexType name="RespuestaListadoPagos">
+        <xsd:sequence>
+          <xsd:element name="CLAVE" type="xsd:string" />
+          <xsd:element name="PAIS_ORIGEN" type="xsd:string" />
+          <xsd:element name="REMESADOR" type="xsd:string" />
+          <xsd:element name="REMITENTE" type="xsd:string" />
+          <xsd:element name="BENEFICIARIO" type="xsd:string" />
+          <xsd:element name="MONEDA_ORIGEN" type="xsd:string" />
+          <xsd:element name="MONEDA_PAGO" type="xsd:string" />
+          <xsd:element name="VALOR_ENVIADO" type="xsd:double" />
+          <xsd:element name="TASA_CAMBIO" type="xsd:double" />
+          <xsd:element name="VALOR_PAGO" type="xsd:double" />
+          <xsd:element name="DATOS_PAGO" type="tns:DatosPago" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="RespuestaListadoPagosElement" type="tns:RespuestaListadoPagos" />
+      <xsd:complexType name="DatosPago">
+        <xsd:sequence>
+          <xsd:element name="FECHA" type="xsd:string" />
+          <xsd:element name="HORA" type="xsd:string" />
+          <xsd:element name="NOMBRE" type="xsd:string" />
+          <xsd:element name="TIPO_DOCUMENTO" type="xsd:string" />
+          <xsd:element name="NUMERO_DOCUMENTO" type="xsd:string" />
+          <xsd:element name="OFICINA" type="xsd:string" />
+          <xsd:element name="CAJA" type="xsd:string" />
+          <xsd:element name="OPERADOR" type="xsd:string" />
+          <xsd:element name="VALOR" type="xsd:double" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="DatosPagoElement" type="tns:DatosPago" />
+      <xsd:complexType name="RespuestaListadoPagosArray">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="item" type="tns:RespuestaListadoPagos" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="RespuestaListadoPagosArrayElement" type="tns:RespuestaListadoPagosArray" />
+      <xsd:complexType name="SesionRemesa">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="ID_PAGADOR" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="SesionRemesaElement" type="tns:SesionRemesa" />
+      <xsd:complexType name="ConsultarRemesaIndividual">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="ID_OPERACION" type="xsd:string" />
+          <xsd:element name="ID_PAGADOR" type="xsd:string" />
+          <xsd:element name="CORRELATIVO_ID" type="xsd:int" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="ConsultarRemesaIndividualElement" type="tns:ConsultarRemesaIndividual" />
+      <xsd:complexType name="RespuestaConsultaRemesaDetalle">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="USUARIO" type="xsd:string" />
+          <xsd:element name="CANTIDAD_REGISTROS" type="xsd:string" />
+          <xsd:element name="LISTADO" type="tns:RegistroListaRemesaArray" />
+          <xsd:element name="CODIGO_MENSAJE" type="xsd:string" />
+          <xsd:element name="TEXTO_MENSAJE" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="RespuestaConsultaRemesaDetalleElement" type="tns:RespuestaConsultaRemesaDetalle" />
+      <xsd:complexType name="RegistroListaRemesa">
+        <xsd:sequence>
+          <xsd:element name="ID_INTEGRACION" type="xsd:string" />
+          <xsd:element name="ID_INTERNO" type="xsd:string" />
+          <xsd:element name="ID_OPERACION" type="xsd:string" />
+          <xsd:element name="CORRELATIVO_ID" type="xsd:string" />
+          <xsd:element name="REMESADOR" type="xsd:string" />
+          <xsd:element name="REM_PRIMER_NOMBRE" type="xsd:string" />
+          <xsd:element name="REM_SEGUNDO_NOMBRE" type="xsd:string" />
+          <xsd:element name="REM_PRIMER_APELLIDO" type="xsd:string" />
+          <xsd:element name="REM_SEGUNDO_APELLIDO" type="xsd:string" />
+          <xsd:element name="REM_PAIS" type="xsd:string" />
+          <xsd:element name="REM_ESTADO" type="xsd:string" />
+          <xsd:element name="REM_CIUDAD" type="xsd:string" />
+          <xsd:element name="REM_DIRECCION" type="xsd:string" />
+          <xsd:element name="BEN_PRIMER_NOMBRE" type="xsd:string" />
+          <xsd:element name="BEN_SEGUNDO_NOMBRE" type="xsd:string" />
+          <xsd:element name="BEN_PRIMER_APELLIDO" type="xsd:string" />
+          <xsd:element name="BEN_SEGUNDO_APELLIDO" type="xsd:string" />
+          <xsd:element name="BEN_TELEFONO" type="xsd:string" />
+          <xsd:element name="BEN_PAIS" type="xsd:string" />
+          <xsd:element name="MONEDA_ORIGEN" type="xsd:string" />
+          <xsd:element name="MONEDA_PAGO" type="xsd:string" />
+          <xsd:element name="VALOR_ENVIADO" type="xsd:string" />
+          <xsd:element name="VALOR_PAGAR" type="xsd:string" />
+          <xsd:element name="ESTADO_GIRO" type="xsd:string" />
+          <xsd:element name="OBSERVACIONES" type="xsd:string" />
+          <xsd:element name="TASA_CAMBIO" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="RegistroListaRemesaElement" type="tns:RegistroListaRemesa" />
+      <xsd:complexType name="RegistroListaRemesaArray">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="item" type="tns:RegistroListaRemesa" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="RegistroListaRemesaArrayElement" type="tns:RegistroListaRemesaArray" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ConsultaRequest">
+    <wsdl:part name="registro" type="tns:ConsultarRemesa" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaResponse">
+    <wsdl:part name="result" type="tns:RespuestaConsultaRemesa" />
+  </wsdl:message>
+  <wsdl:message name="ReservaRequest">
+    <wsdl:part name="registro" type="tns:ReservarRemesa" />
+  </wsdl:message>
+  <wsdl:message name="ReservaResponse">
+    <wsdl:part name="result" type="tns:RespuestaReservaRemesa" />
+  </wsdl:message>
+  <wsdl:message name="LiberaRequest">
+    <wsdl:part name="registro" type="tns:LiberarRemesa" />
+  </wsdl:message>
+  <wsdl:message name="LiberaResponse">
+    <wsdl:part name="result" type="tns:RespuestaLiberaRemesa" />
+  </wsdl:message>
+  <wsdl:message name="AnulaPagoRequest">
+    <wsdl:part name="registro" type="tns:AnularPagoRemesa" />
+  </wsdl:message>
+  <wsdl:message name="AnulaPagoResponse">
+    <wsdl:part name="result" type="tns:RespuestaAnulaRemesa" />
+  </wsdl:message>
+  <wsdl:message name="PagoRequest">
+    <wsdl:part name="registro" type="tns:PagarRemesa" />
+  </wsdl:message>
+  <wsdl:message name="PagoResponse">
+    <wsdl:part name="result" type="tns:RespuestaPagoRemesa" />
+  </wsdl:message>
+  <wsdl:message name="ListadoPagadaRequest">
+    <wsdl:part name="registro" type="tns:ConsultaRemesasPagadas" />
+  </wsdl:message>
+  <wsdl:message name="ListadoPagadaResponse">
+    <wsdl:part name="result" type="tns:RespuestaPagos" />
+  </wsdl:message>
+  <wsdl:message name="SesionRequest">
+    <wsdl:part name="registro" type="tns:SesionRemesa" />
+  </wsdl:message>
+  <wsdl:message name="SesionResponse">
+    <wsdl:part name="result" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaGiroRequest">
+    <wsdl:part name="registro" type="tns:ConsultarRemesaIndividual" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaGiroResponse">
+    <wsdl:part name="result" type="tns:RespuestaConsultaRemesaDetalle" />
+  </wsdl:message>
+  <wsdl:portType name="PagadorPortType">
+    <wsdl:operation name="Consulta" parameterOrder="registro">
+      <wsdl:input message="tns:ConsultaRequest" />
+      <wsdl:output message="tns:ConsultaResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="Reserva" parameterOrder="registro">
+      <wsdl:input message="tns:ReservaRequest" />
+      <wsdl:output message="tns:ReservaResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="Libera" parameterOrder="registro">
+      <wsdl:input message="tns:LiberaRequest" />
+      <wsdl:output message="tns:LiberaResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="AnulaPago" parameterOrder="registro">
+      <wsdl:input message="tns:AnulaPagoRequest" />
+      <wsdl:output message="tns:AnulaPagoResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="Pago" parameterOrder="registro">
+      <wsdl:input message="tns:PagoRequest" />
+      <wsdl:output message="tns:PagoResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="ListadoPagada" parameterOrder="registro">
+      <wsdl:input message="tns:ListadoPagadaRequest" />
+      <wsdl:output message="tns:ListadoPagadaResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="Sesion" parameterOrder="registro">
+      <wsdl:input message="tns:SesionRequest" />
+      <wsdl:output message="tns:SesionResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaGiro" parameterOrder="registro">
+      <wsdl:input message="tns:ConsultaGiroRequest" />
+      <wsdl:output message="tns:ConsultaGiroResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="PagadorBinding" type="tns:PagadorPortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="Consulta">
+      <soap:operation soapAction="http://portal.redchapina.com/Consulta" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="registro" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="result" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Reserva">
+      <soap:operation soapAction="http://portal.redchapina.com/Reserva" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="registro" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="result" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Libera">
+      <soap:operation soapAction="http://portal.redchapina.com/Libera" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="registro" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="result" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AnulaPago">
+      <soap:operation soapAction="http://portal.redchapina.com/AnulaPago" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="registro" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="result" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Pago">
+      <soap:operation soapAction="http://portal.redchapina.com/Pago" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="registro" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="result" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListadoPagada">
+      <soap:operation soapAction="http://portal.redchapina.com/ListadoPagada" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="registro" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="result" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Sesion">
+      <soap:operation soapAction="http://portal.redchapina.com/Sesion" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="registro" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="result" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaGiro">
+      <soap:operation soapAction="http://portal.redchapina.com/ConsultaGiro" style="rpc" />
+      <wsdl:input>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="registro" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" namespace="http://portal.redchapina.com/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" parts="result" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="PagadorService">
+    <wsdl:port name="PagadorPort" binding="tns:PagadorBinding">
+      <soap:address location="http://portal.redchapina.com/Pagador.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,664 @@
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+D:\Temp\Fuentes\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Fuentes\wwwAMIGA_\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\bin\Release\SIM_WINUC.dll
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\bin\Release\SIM_WINUC.xml
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\bin\Release\SIM_BL.dll
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\bin\Release\SIM_DL.dll
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\bin\Release\SIM_EL.dll
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\bin\Release\SIM_BL.pdb
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\bin\Release\SIM_BL.xml
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\bin\Release\SIM_EL.pdb
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\bin\Release\SIM_EL.xml
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\bin\Release\SIM_DL.pdb
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\bin\Release\SIM_DL.xml
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\obj\Release\SIM_WINUC.dll
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\obj\Release\SIM_WINUC.xml
+D:\Temp\GPS\wwwAMIGA\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\bin\Release\SIM_WINUC.dll
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\bin\Release\SIM_WINUC.xml
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\bin\Release\SIM_BL.dll
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\bin\Release\SIM_DL.dll
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\bin\Release\SIM_EL.dll
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\bin\Release\SIM_BL.pdb
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\bin\Release\SIM_BL.xml
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\bin\Release\SIM_DL.pdb
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\bin\Release\SIM_DL.xml
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\bin\Release\SIM_EL.pdb
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\bin\Release\SIM_EL.xml
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\obj\Release\SIM_WINUC.dll
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\obj\Release\SIM_WINUC.xml
+D:\Temp\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23012015\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Fuentes\Fuentes_AMIGA_GEOLOCALIZACION_23022015\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\wwwamiga\wwwamiga_prueba\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\soluciones_nuevas\wwwamiga\wwwamiga_prueba\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_Amiga\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\solucion_nueva_amiga\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\ACTUALIZADO\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTOS\wwwamiga_actual\wwwamiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.xml
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\office.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.pdb
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.xml
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.pdb
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.xml
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.pdb
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.xml
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.dll
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.xml
+D:\Temp\Fuentes\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\office.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Fuentes\Fuentes_amiga_23052015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\SISTEMA_CARNET_YREPORTE82\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\PROYECTO ACTUALES\VersionActual10062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual16062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VersionActual22062015\wwwamiga_04052015\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\office.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Fuentes\mfamiga\Estable\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\VerionesNuevas\VERSIONueva\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\NUEVA VERSION WWWAMIGA\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de validaciones\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\SOFTWARES\VERSION_GARANTIAS\Version de produccion Bak\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\Version_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Desktop\MFAMIGA\PROYECTOS MFAMIGA\PROYECTOS VERSIONES\Version_1_1\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Repositorio_descargas\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\repositorio-wwwamiga\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ANALISTA-PROGRAMADOR\Documents\Desarrollo MFAMIGA\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.pdb
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_WINUC.xml
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\office.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.pdb
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_BL.xml
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.pdb
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_DL.xml
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.pdb
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\bin\Release\SIM_EL.xml
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.Resources.resources
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.vbproj.GenerateResource.Cache
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.dll
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.xml
+C:\Users\ctorres\Documents\controlado-mfamiga\wwwAmiga\SIM_WINUC\obj\Release\SIM_WINUC.pdb

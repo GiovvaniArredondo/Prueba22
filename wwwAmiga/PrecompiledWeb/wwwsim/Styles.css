@@ -1,0 +1,367 @@
+/* Hoja de estilos CSS predeterminada para un nuevo proyecto de aplicación Web*/
+
+BODY
+{
+    BACKGROUND-COLOR: white;
+    FONT-FAMILY: Verdana, Helvetica, sans-serif;
+    FONT-SIZE: .8em;
+    FONT-WEIGHT: normal;
+    LETTER-SPACING: normal;
+    TEXT-TRANSFORM: none;
+    WORD-SPACING: normal
+}
+
+H1, H2, H3, H4, H5, TH, THEAD, TFOOT
+{
+    COLOR: #003366;
+}
+H1	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	2em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H2	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	1.75em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H3	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	1.58em;
+	font-weight:	500;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H4	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	1.33em;
+	font-weight:	500;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H5, DT	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	1em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H6	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	.8em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+TFOOT, THEAD	{	
+	font-size:	1em;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	font-family: Arial, Helvetica, sans-serif;
+	}	
+		
+TH	{	
+	vertical-align:	baseline;
+	font-size:	1em;
+	font-weight:	bold;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	font-family: Arial, Helvetica, sans-serif;
+	}	
+
+
+A:link	{	
+	text-decoration:	none;
+	color:	#3333cc;
+	}	
+		
+A:visited	{	
+	text-decoration:	none;
+	color:	#333399;
+	}	
+		
+A:active	{	
+	text-decoration:	none;
+	color:	#333399;
+	}	
+		
+A:hover	{	
+	text-decoration:	underline;
+	color:	#3333cc;
+	}
+	
+SMALL	{	
+	font-size:	.7em;
+	}	
+
+BIG	{	
+	font-size:	1.17em;
+	}	
+
+BLOCKQUOTE, PRE	{	
+	font-family:	Courier New, monospace;
+	}	
+	
+
+UL LI	{	
+	list-style-type:	square ;
+	}	
+
+UL LI LI	{	
+	list-style-type:	disc;
+	}	
+
+UL LI LI LI	{	
+	list-style-type:	circle;
+	}	
+	
+OL LI	{	
+	list-style-type:	decimal;
+	}	
+
+OL OL LI	{	
+	list-style-type:	lower-alpha;
+	}	
+
+OL OL OL LI	{	
+	list-style-type:	lower-roman;
+	}	
+
+IMG 	{
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	}
+		
+.Fondo
+{
+	background-color: #9d83cc;
+}
+.FondoEncabezado
+{
+	background-color: #0066ff;
+}
+
+
+.grid 
+{
+	border-width:0px;
+	font-size:12px;
+}
+
+.grid caption 
+ {
+     background:#f9f9f9 url(images/captionbckg.gif) repeat-x;
+	        color:#15428B;
+	        text-align:left;
+	        line-height:22px;
+	        font-size:11px;
+	        font-weight:bold;
+	        padding-top:2px;
+	        padding-left:2px;
+	        font-family:tahoma,arial,verdana,sans-serif;
+        }
+
+        .grid table 
+        {
+        	border:solid 1px #99BBE8;
+        	height:30px;
+	    }
+	        
+        .grid th
+        {
+	        background:transparent url(images/thbackground.gif) repeat;
+            height:19px;
+            border:solid 1px #99BBE8;
+            font-weight:normal;
+        }
+
+        .grid td
+        {
+	        border:1px solid #99BBE8;
+            color:Black;
+            height:25px;
+        }
+        
+        .pagerstyle 
+        {
+	        font-size:x-small;
+	        text-align:right;
+            background-position: bottom left;
+            background: #D0DEF0 url(images/toolbarbck.gif) repeat-x scroll left top;
+        }
+
+        .gopag 
+        {
+            font-size:x-small;
+            width:20px;
+        }
+
+        .pagprev
+        {
+            background:transparent url(images/previous.png) no-repeat scroll center;
+            height:1.3em;
+            width:16px;
+            cursor:pointer;
+            border:0px;
+        }
+        
+        .pagnext
+        {
+            background:transparent url(images/next.png) no-repeat scroll center;
+            height:1.3em;
+            width:16px;
+            cursor:pointer;
+            border:0px;
+        }
+
+        .pagfirst
+        {
+            background:transparent url(images/first.png) no-repeat scroll center;
+            height:1.3em;
+            width:16px;
+            cursor:pointer;
+            border:0px;
+        }
+        
+        .paglast
+        {
+            background:transparent url(images/last.png) no-repeat scroll center;
+            height:1.3em;
+            width:16px;
+            cursor:pointer;
+            border:0px;
+        }
+
+
+    .transpare 
+     {
+     font-family: Tahoma;
+     font-size: 12px;  
+     text-transform: uppercase;
+     }
+     
+
+     .Watermark
+    {
+        font-family: Tahoma;
+        font-size: 12px; 
+        border: solid 1px #a9a9a9;
+        width: 425px;
+        margin: 5px;
+        color: Gray;
+    }
+    
+ul#css3menu1,ul#css3menu1 ul{
+	margin:0;list-style:none;padding:0;background-color:#424542;border-width:2px;border-style:solid;border-color:#FFF;-moz-border-radius:7px;-webkit-border-radius:7px;border-radius:7px;}
+ul#css3menu1 ul{
+	display:none;position:absolute;left:100%;top:0;-moz-box-shadow:3.5px 3.5px 5px #000000;-webkit-box-shadow:3.5px 3.5px 5px #000000;box-shadow:3.5px 3.5px 5px #000000;border-radius:7px;-moz-border-radius:7px;-webkit-border-radius:7px;padding:0;}
+ul#css3menu1 li:hover>*{
+	display:block;}
+ul#css3menu1 li{
+	position:relative;display:block;white-space:nowrap;font-size:0;}
+ul#css3menu1 li:hover{
+	z-index:1;}
+ul#css3menu1{
+	font-size:0;z-index:999;position:relative;display:block;float:left;padding:0;}
+ul#css3menu1>li{
+	margin:0;}
+ul#css3menu1 a:active, ul#css3menu1 a:focus{
+	outline-style:none;}
+ul#css3menu1 a{
+	display:block;vertical-align:middle;text-align:left;text-decoration:none;font:14px Trebuchet MS;color:#FFF;cursor:pointer;padding:0px 10px 0px 10px;background-color:#9d83cc;background-image:none;background-repeat:repeat;border-width:1px 0 0 0;border-style:solid;border-color:#424542;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;}
+ul#css3menu1 ul li{
+	float:none;margin:0;}
+ul#css3menu1 ul a{
+	text-align:left;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;-moz-transition:all 0.5s;-webkit-transition:all 0.5s;-o-transition:all 0.5s;color:#FFF;text-decoration:none;}
+ul#css3menu1 li:hover>a,ul#css3menu1 li a.pressed{
+	background-color:#6434a1;border-color:#424542;border-style:solid;color:#FFF;background-image:url("mainbk.png");text-decoration:none;}
+ul#css3menu1 span{
+	display:block;overflow:visible;background-image:url("arrowsub.png");background-position:right center;background-repeat:no-repeat;padding-right:14px;}
+ul#css3menu1 ul li:hover>a,ul#css3menu1 ul li a.pressed{
+	color:#FFF;text-decoration:none;}
+ul#css3menu1 li.topfirst>a{
+	border-width:0;-moz-transition:all 0.5s;-webkit-transition:all 0.5s;-o-transition:all 0.5s;}
+ul#css3menu1 li.topmenu>a{
+	-moz-transition:all 0.5s;-webkit-transition:all 0.5s;-o-transition:all 0.5s;}
+ul#css3menu1 li.subfirst>a{
+	border-width:0;}
+	
+
+	
+	
+
+
+.NewsTab .ajax__tab_header 
+{
+    color: Black;
+    font-size: 13px;
+    font-weight: bold;
+    background-color: White;
+    margin-left: 10px;
+}
+.NewsTab .ajax__tab_outer
+{
+    background-color: White;
+}
+.NewsTab .ajax__tab_inner
+{
+    padding: 6px;
+    margin-right: 1px;
+    margin-left: 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    background-color: #f8f6ea;
+}
+.NewsTab .ajax__tab_hover .ajax__tab_outer
+{
+    background-color: Orange;
+}
+.NewsTab .ajax__tab_hover .ajax__tab_inner
+{
+    background-color: #FFFFE1;
+}
+.NewsTab .ajax__tab_active .ajax__tab_outer
+{
+    background-color: White;
+}
+.NewsTab .ajax__tab_active .ajax__tab_inner
+{
+    background-color: Silver;    	
+}
+
+.ToUpper
+    {
+    text-transform: uppercase;
+    }	
+
+	

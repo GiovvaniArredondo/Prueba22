@@ -1,0 +1,32 @@
+
+
+<%@ Page Title="Modulo de Informes" Language="VB" MasterPageFile="~/MasterPage.master" AutoEventWireup="false" CodeFile="WbAdmRpt.aspx.vb" Inherits="WbAdmRpt" %>
+
+<%@ Register assembly="Microsoft.Web.UI.WebControls" namespace="Microsoft.Web.UI.WebControls" tagprefix="iewc" %>
+
+
+<%@ Register src="controles/Usmodrep.ascx" tagname="Usmodrep1" tagprefix="uc3" %>
+<%@ Register src="controles/usgenrep.ascx" tagname="usgenrep1" tagprefix="uc4" %>
+
+
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    <table cellpadding="0" cellspacing="0" style="width: 100%">
+        <tr>
+            <td>
+                <iewc:tabstrip id="TabStrip1" runat="server" Font-Size="Larger" 
+                                            Font-Names="Century Gothic" TabSelectedStyle="background-color:#ffffff;color:#000000;"
+											TabHoverStyle="background-color:#777777;" TabDefaultStyle="background-color:#000000;font-family:verdana;font-weight:bold;font-size:8pt;color:#ffffff;width:79;height:21;text-align:center;"
+											AutoPostBack="True" Height="33px" Width="303px">
+											<iewc:Tab Text="Reportes"></iewc:Tab>
+											<iewc:Tab Text="Generador"></iewc:Tab>										    
+										</iewc:tabstrip>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <uc4:usgenrep1 ID="usgenrep11" runat="server" />
+                <uc3:Usmodrep1 ID="Usmodrep11" runat="server" />
+            </td>
+        </tr>
+    </table>
+</asp:Content>
